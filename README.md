@@ -214,5 +214,5 @@ An **interactive dashboard** (e.g., Power BI) is built on top of the PostgreSQL 
 
 ```plaintext
 .
-├── Milestone7_Group17_OnPremise.pdf    # Full project report & design document
+├── MedSmileHealthcareSatisfactionMonitoringSystem_OnPremise.pdf    # Full project report & design document
 └── README.md                           # Project overview (this file)
