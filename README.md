@@ -1,163 +1,218 @@
 # 🏥 MedSmile: Healthcare Satisfaction Monitoring System  
-*A Data Warehouse and BI Solution for Patient Satisfaction and Hospital Performance Analysis*  
+*A Data Warehouse & BI Solution for Patient Experience and Hospital Performance*  
 
-![Python](https://img.shields.io/badge/ETL-Talend-blue?logo=apache&logoColor=white)  
+![Talend](https://img.shields.io/badge/ETL-Talend-blue)  
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-darkblue?logo=postgresql&logoColor=white)  
 ![PowerBI](https://img.shields.io/badge/Visualization-PowerBI-yellow?logo=powerbi&logoColor=black)  
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Status](https://img.shields.io/badge/Project-On--Premise-brightgreen)  
 
 ---
 
 ## 🚀 Project Overview
-**MedSmile** is a comprehensive **Healthcare Data Warehouse System** designed to consolidate patient satisfaction, hospital ratings, and performance data from multiple sources.  
-The project enables healthcare organizations to perform **advanced analytics, OLAP operations, and KPI tracking** to improve patient experience and hospital efficiency.
+**MedSmile** is an on-premise **Healthcare Satisfaction Monitoring System** that integrates patient surveys, hospital ratings, and operational metrics into a centralized **PostgreSQL data warehouse**.
 
-> 🎯 **Goal:** Centralize healthcare performance and patient feedback data into a unified, interactive platform to support informed decision-making.
+The system supports:
+- Consolidated reporting across hospitals and locations  
+- OLAP-style analysis (roll-up, drill-down, slice, dice)  
+- Interactive dashboards for patient satisfaction and hospital performance  
+
+> 🎯 **Goal:** Provide healthcare administrators with a unified, on-premise analytics platform to improve patient experience and facility performance.
 
 ---
 
 ## 📦 Table of Contents
-- [🎯 Problem Definition](#-problem-definition)
-- [🏢 Operational Business Context](#-operational-business-context)
-- [🧮 Data Model](#-data-model)
-- [🗄️ Data Warehouse Design](#️-data-warehouse-design)
-- [⚙️ ETL Process (Talend)](#%EF%B8%8F-etl-process-talend)
-- [📊 OLAP Operations](#-olap-operations)
-- [📈 Dashboard & KPIs](#-dashboard--kpis)
-- [🧰 Tools & Technologies](#-tools--technologies)
-- [🗂️ Project Structure](#️-project-structure)
-- [👩‍💻 Authors](#-authors)
-- [📄 References](#-references)
+- [🎯 Problem Definition](#-problem-definition)  
+- [🏢 Operational Business Context](#-operational-business-context)  
+- [🧮 Data Model](#-data-model)  
+- [🗄️ Data Warehouse Design (On-Premise)](#️-data-warehouse-design-on-premise)  
+- [⚙️ ETL Process (Talend → PostgreSQL)](#️-etl-process-talend--postgresql)  
+- [📊 OLAP Operations](#-olap-operations)  
+- [📈 Dashboard & KPIs](#-dashboard--kpis)  
+- [🧰 Tools & Technologies](#-tools--technologies)  
+- [🗂️ Project Structure](#️-project-structure)  
+- [👩‍💻 Authors](#-authors)  
+- [📄 References](#-references)  
 
 ---
 
 ## 🎯 Problem Definition
-Healthcare organizations often struggle with **fragmented patient satisfaction and hospital performance data** scattered across multiple systems.  
-This fragmentation limits administrators from:
-- Understanding patient experiences  
-- Comparing performance across facilities  
-- Making data-driven operational decisions  
+Healthcare organizations collect data from many sources:
 
-**MedSmile** resolves this by integrating all data sources into a **centralized data warehouse** that supports efficient analysis, reporting, and transparency.
+- Patient satisfaction surveys  
+- Facility ratings and performance metrics  
+- Emergency services and capacity information  
+
+However, this data is **fragmented across different systems**, making it hard to:
+
+- Get a holistic view of patient experience  
+- Compare hospital performance across locations  
+- Identify underperforming facilities  
+- Support data-driven operational decisions  
+
+**MedSmile** addresses this by building an **on-premise data warehouse** that consolidates all relevant data into a single source of truth.
 
 ---
 
 ## 🏢 Operational Business Context
 
-| Domain | Description |
-|--------|--------------|
-| **Hospital Operations** | Centralized tracking of admissions, emergency services, and compliance metrics |
-| **Patient Management** | Aggregated satisfaction surveys and hospital ratings for performance evaluation |
-| **Patient Engagement** | Continuous feedback loops for improving care and reducing readmission rates |
-| **Healthcare Reporting** | Transparent dashboards for internal stakeholders and regulators |
+- **Hospital Operations**  
+  Centralized access to facility ownership, type, emergency services, and performance helps optimize staffing, capacity, and service availability.
+
+- **Patient Management**  
+  Aggregated survey responses and ratings support monitoring of care quality, readmissions, and overall patient satisfaction.
+
+- **Patient Engagement**  
+  Feedback captured through structured surveys enables targeted improvements in patient communication, comfort, and service quality.
+
+- **Healthcare Reporting**  
+  Consistent, transparent reporting to internal stakeholders and regulators is supported by unified, auditable data.
+
+> 💾 This is an **on-premise project** deployed on a **PostgreSQL database**.  
+> All ETL, storage, and analytics run within a controlled environment, supporting stricter data governance and healthcare compliance requirements.
 
 ---
 
 ## 🧮 Data Model
 
-### **Relational Model**
-1. **Hospital_Details** (`PatientID`, `FacilityID`, `Facility_Name`, `City`, `State`, `HospitalOwnership`, `HospitalType`)  
-2. **Location** (`LocationID`, `City`, `County`, `State`, `Zipcode`, `Address`, `Facility_Name`)  
-3. **Patient_Details** (`PatientID`, `Patient_Type`, `Insurance_Type`)  
-4. **Survey_Details** (`SurveyID`, `PatientID`, `HCAHPSMeasureID`, `HCAHPS_Question`, `PatientSurveyStarRating`, `SurveyResponseRatePercent`, `NumberofCompletedSurveys`)  
-5. **Emergency_Services** (`ServiceID`, `ServiceType`, `Availability`, `ResponseTime`, `Capacity`)
+### 🔹 Source Data
+- 4 main source tables (numeric + string data types), plus emergency services:
+  1. `Hospital_Details`
+  2. `Location`
+  3. `Patient_Details`
+  4. `Survey_Details`
+  5. `Emergency_Services`
 
-### **Data Source**
-- Primary data sourced from **Kaggle**:  
-  [US Hospital Customer Satisfaction (2016–2020)](https://www.kaggle.com/datasets/abrambeyer/us-hospital-customer-satisfaction-20162020)
+- Primary data is sourced from Kaggle, with some columns generated manually:
+  - [US Hospital Customer Satisfaction (2016–2020)](https://www.kaggle.com/datasets/abrambeyer/us-hospital-customer-satisfaction-20162020)
 
----
-
-## 🗄️ Data Warehouse Design
-
-### **Star Schema**
-Central fact table linked to multiple dimensions:
-
-**Fact Table: `Survey_Fact`**
-- Keys: `SurveyFactID (PK)`, `SurveyID`, `PatientID`, `LocationID`, `ServiceID`, `FacilityID`
-- Measures:  
-  - `AvgPatientSurveyStarRating` *(Semi-additive)*  
-  - `AvgSurveyResponseRatePercent` *(Semi-additive)*  
-  - `TotalCompletedSurveys` *(Semi-additive)*
-
-**Dimensions**
-- `Hospital_Dimension` – Facility details  
-- `Survey_Dimension` – Survey responses  
-- `Location_Dimension` – Geographic details  
-- `Patient_Dimension` – Patient demographics  
-- `Emergency_Service_Dimension` – Availability & response times  
-
-### **SCD Implementation**
-- **Type 1 Slowly Changing Dimension** applied to Hospital attributes (`Facility_Name`, `HospitalType`, `HospitalOwnership`)  
-  → Old data overwritten with current information.
+### 🔹 Relational Model (OLTP)
+- **Hospital_Details**(`PatientID`, `FacilityID`, `Facility_Name`, `Phone_Number`, `Address`, `Street`, `City`, `County`, `State`, `Zipcode`, `HospitalOwnership`, `HospitalType`)  
+- **Location**(`LocationID`, `City`, `County`, `State`, `Zipcode`, `Address`, `Facility_Name`)  
+- **Patient_Details**(`PatientID`, `Patient_Type`, `Insurance_Type`)  
+- **Survey_Details**(`SurveyID`, `PatientID`, `HCAHPSMeasureID`, `HCAHPS_Question`, `HCAHPS_Answer`, `PatientSurveyStarRating`, `SurveyResponseRatePercent`, `NumberofCompletedSurveys`)  
+- **Emergency_Services**(`ServiceID`, `ServiceType`, `Availability`, `ResponseTime`, `Capacity`)  
 
 ---
 
-## ⚙️ ETL Process (Talend)
-Data integration and loading performed using **Talend Open Studio**.
+## 🗄️ Data Warehouse Design (On-Premise)
 
-**Steps:**
-1. **Load Dimensions:**  
-   Each source table loaded into its corresponding dimension table.  
-   - Example: `Hospital_Details → Hospital_Dimension` (65,524 inserts, 11 updates)
-2. **Transformations:**  
-   - Trim strings  
-   - Replace `YES/NO` → `1/0`  
-   - Handle nulls (`NULL → 0`)  
-   - Type conversion (String → Integer)
-3. **Load Fact Table:**  
-   - Joined from all dimension tables  
-   - Loaded into `Survey_Fact` via Talend `tMap` component  
-4. **Calculated Measures:**  
-   - `TotalCompletedSurveys`  
-   - `AveragePatientSurveyStarRating`
+The MedSmile data warehouse is implemented as a **star schema hosted in an on-premise PostgreSQL instance**.
+
+### ⭐ Fact Table: `Survey_Fact`
+- **Keys:**
+  - `SurveyFactID` (surrogate PK)  
+  - `SurveyID`, `PatientID`, `LocationID`, `ServiceID`, `FacilityID` (FKs to dimensions)
+- **Measures (Semi-additive):**
+  - `AvgPatientSurveyStarRating`  
+  - `AvgSurveyResponseRatePercent`  
+  - `TotalCompletedSurveys`  
+
+### 🔹 Dimension Tables
+1. **Hospital_Dimension**  
+   (`FacilityID`, `Facility_Name`, `Phone_Number`, `Address`, `City`, `State`, `HospitalOwnership`, `HospitalType`)
+
+2. **Survey_Dimension**  
+   (`SurveyID`, `HCAHPSMeasureID`, `HCAHPS_Question`, `HCAHPS_Answer`, `PatientSurveyStarRating`, `SurveyResponseRatePercent`, `NumberofCompletedSurveys`, `LocationID`, `FacilityID`, `PatientID`, `ServiceID`)
+
+3. **Location_Dimension**  
+   (`LocationID`, `City`, `County`, `State`, `Zipcode`, `Address`, `Facility_Name`)
+
+4. **Patient_Dimension**  
+   (`PatientID`, `Patient_Type`, `Insurance_Type`)
+
+5. **Emergency_Services_Dimension**  
+   (`ServiceID`, `ServiceType`, `Availability`, `ResponseTime`, `Capacity`)
+
+### 🕒 Slowly Changing Dimensions
+- **SCD Type 1** implemented for:
+  - `Facility_Name`  
+  - `HospitalType`  
+  - `HospitalOwnership`  
+- Old values are overwritten with new data (no history kept) to always show the **current** facility attributes.
+
+---
+
+## ⚙️ ETL Process (Talend → PostgreSQL)
+
+All ETL is implemented in **Talend Open Studio**, targeting the **on-premise PostgreSQL warehouse** via JDBC.
+
+### 1️⃣ Dimension Loading
+- Source tables are cleaned and loaded into their corresponding dimension tables:
+  - `HospitalDetails → Hospital_Dimension`
+  - `LocationTable → Location_Dimension`
+  - `PatientDetails → Patient_Dimension`
+  - `SurveyDetailsTable → Survey_Dimension`
+  - `EmergencyServicesTable → Emergency_Services_Dimension`
+- Transformations:
+  - Trimming quotes and whitespace
+  - Converting `"YES"/"NO"` to `1/0`
+  - Replacing `NULL/blank` values with `0` when appropriate
+  - Data type conversions (String → INT for numeric survey fields)
+
+### 2️⃣ Fact Table ETL
+- Data from all dimensions is joined in Talend using `tMap`
+- The combined dataset is loaded into `Survey_Fact` in PostgreSQL
+- Calculated measures such as:
+  - `TotalCompletedSurveys`
+  - `AveragePatientSurveyStarRating`
+
+> 🧩 The ETL workflow is fully **on-premise**: Talend connects directly to PostgreSQL; no cloud services are used.
 
 ---
 
 ## 📊 OLAP Operations
 
-| Operation | Purpose |
-|------------|----------|
-| **ROLL-UP (State, FacilityID)** | Analyze average survey ratings by hospital and state |
-| **DRILL-ACROSS** | Correlate survey completion and satisfaction |
-| **SLICE** | Identify underperforming hospitals (`StarRating < 3`, `ResponseRate < 50`) |
-| **DRILL-DOWN** | Examine emergency response times per facility |
-| **DICE** | Analyze facilities by state or ownership type |
-| **ROLL-UP (Year)** | Track satisfaction trends over time |
+Typical OLAP-style analyses supported by the warehouse:
+
+1. **Average survey rating by hospital & state**  
+   - ROLL-UP on (`State`, `FacilityID`) by `Avg(PatientSurveyStarRating)`
+
+2. **Survey completion vs star rating**  
+   - DRILL-ACROSS between completion counts and rating averages
+
+3. **Underperforming hospitals**  
+   - SLICE where `PatientSurveyStarRating < 3` AND `SurveyResponseRatePercent < 50`
+
+4. **Emergency service availability by state & facility**  
+   - ROLL-UP on (`State`, `FacilityID`) with `COUNT(ServiceID)`
+
+5. **Survey trends by time** (e.g., quarter or year)  
+   - DRILLDOWN on (`Quarter`, `FacilityID`) or (`Year`, `FacilityID`) with `Avg(SurveyResponseRatePercent)` or `Avg(PatientSurveyStarRating)`
+
+6. **Completed surveys by city and hospital type**  
+   - ROLL-UP on (`City`, `HospitalType`) with `SUM(TotalCompletedSurveys)`
 
 ---
 
 ## 📈 Dashboard & KPIs
 
-**KPIs**
-1. 🩺 **Average Patient Survey Star Rating** — Mean satisfaction across facilities  
-2. 😊 **Positive Feedback %** — Proportion of positive survey responses  
-3. 📊 **Total Surveys Completed** — Engagement indicator  
-4. ⚙️ **Weighted Response Rate** — Adjusted by survey type and feedback volume  
-5. 🏆 **Facility Satisfaction Score** — Weighted combination of star rating × survey volume  
+An **interactive dashboard** (e.g., Power BI) is built on top of the PostgreSQL warehouse.
 
-**Visualizations**
-- Bar charts: Survey scores by patient & insurance type  
-- Donut charts: Feedback distribution by facility  
-- State maps: Facility coverage by region  
-- Slicers: Filter by **State** or **Hospital Ownership**  
+### Key KPIs
+1. ⭐ **Average Star Rating** across all facilities  
+2. 😊 **Positive Survey Percentage** (share of positive feedback)  
+3. 🧾 **Total Completed Surveys**  
+4. 📬 **Weighted Response Rate** (adjusted for feedback volume/survey type)  
+5. 🏆 **Facility Satisfaction Score**  
+   - Weighted combination of star ratings × survey counts
 
-> The dashboard allows interactive exploration of satisfaction trends and hospital performance metrics.
-
----
+--
 
 ## 🧰 Tools & Technologies
-- **ETL:** Talend Open Studio  
-- **Database:** PostgreSQL  
-- **Visualization:** Power BI  
-- **Modeling:** ERD & Star Schema (Conceptual, Logical, Physical)  
-- **OLAP Queries:** SQL ROLLUP, DRILLDOWN, SLICE, DICE operations  
+
+| Category | Tool | Usage |
+|----------|------|-------|
+| ETL / Integration | **Talend Open Studio** | Extract, transform, and load from sources into DW |
+| Database (On-Premise) | **PostgreSQL** | Central data warehouse & OLAP engine |
+| Visualization | **Power BI** | Interactive dashboard and KPI reporting |
+| Data Modeling | ERD, Star Schema | Conceptual & logical modeling of warehouse |
+| OLAP / SQL | PostgreSQL SQL | ROLLUP, DRILLDOWN, SLICE, DICE operations |
 
 ---
 
 ## 🗂️ Project Structure
+
 ```plaintext
 .
-├── Milestone7_Group17_OnPremise.pdf     # Project documentation and schema
-├── README.md                            # Project overview (this file)
-└── (Optional) PowerBI Dashboard visuals
+├── Milestone7_Group17_OnPremise.pdf    # Full project report & design document
+└── README.md                           # Project overview (this file)
