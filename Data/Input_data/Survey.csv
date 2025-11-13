@@ -1,0 +1,114 @@
+surveyid,hcahpsmeasureid,hcahps_question,hcahps_answer,patientsurveystarrating,surveyresponseratepercent,numberofcompletedsurveys,PatientID
+SCDAB308,H_STAR_RATING,Summary star rating,Summary star rating,3,27,1213,AB415
+SCDAB150,H_CLEAN_HSP_A_P,Patients who reported that their room and bathroom were Always clean,Room was always clean,1,27,1213,AB514
+SCDAB366,H_CLEAN_HSP_SN_P,Patients who reported that their room and bathroom were Sometimes or Never clean,Room was sometimes or never clean,0,27,1213,AB141
+SCDAB2360,H_CLEAN_HSP_U_P,Patients who reported that their room and bathroom were Usually clean,Room was usually clean,0,27,1213,AB201
+SCDAB2558,H_CLEAN_LINEAR_SCORE,Cleanliness - linear mean score,Cleanliness - linear mean score,0,27,1213,AB264
+SCDAB3422,H_CLEAN_STAR_RATING,Cleanliness - star rating,Cleanliness - star rating,2,27,1213,AB377
+SCDAB3116,H_COMP_1_A_P,Patients who reported that their nurses Always communicated well,Nurses always communicated well,0,27,1213,AB660
+SCDAB1304,H_COMP_1_LINEAR_SCORE,Nurse communication - linear mean score,Nurse communication - linear mean score,0,27,1213,AB394
+SCDAB898,H_COMP_1_SN_P,Patients who reported that their nurses Sometimes or Never communicated well,Nurses sometimes or never communicated well,0,27,1213,AB602
+SCDAB2282,H_COMP_1_STAR_RATING,Nurse communication - star rating,Nurse communication - star rating,3,27,1213,AB70
+SCDAB2770,H_COMP_1_U_P,Patients who reported that their nurses Usually communicated well,Nurses usually communicated well,0,27,1213,AB143
+SCDAB983,H_COMP_2_A_P,Patients who reported that their doctors Always communicated well,Doctors always communicated well,0,27,1213,AB531
+SCDAB2777,H_COMP_2_LINEAR_SCORE,Doctor communication - linear mean score,Doctor communication - linear mean score,0,27,1213,AB125
+SCDAB2772,H_COMP_2_SN_P,Patients who reported that their doctors Sometimes or Never communicated well,Doctors sometimes or never communicated well,0,27,1213,AB280
+SCDAB955,H_COMP_2_STAR_RATING,Doctor communication - star rating,Doctor communication - star rating,3,27,1213,AB261
+SCDAB2905,H_COMP_2_U_P,Patients who reported that their doctors Usually communicated well,Doctors usually communicated well,0,27,1213,AB146
+SCDAB3066,H_COMP_3_A_P,Patients who reported that they Always received help as soon as they wanted,Patients always received help as soon as they wanted,0,27,1213,AB662
+SCDAB1555,H_COMP_3_LINEAR_SCORE,Staff responsiveness - linear mean score,Staff responsiveness - linear mean score,0,27,1213,AB452
+SCDAB3363,H_COMP_3_SN_P,Patients who reported that they Sometimes or Never received help as soon as they wanted,Patients sometimes or never received help as soon as they wanted,0,27,1213,AB57
+SCDAB2811,H_COMP_3_STAR_RATING,Staff responsiveness - star rating,Staff responsiveness - star rating,2,27,1213,AB243
+SCDAB2599,H_COMP_3_U_P,Patients who reported that they Usually received help as soon as they wanted,Patients usually received help as soon as they wanted,0,27,1213,AB168
+SCDAB2357,H_COMP_4_A_P,Patients who reported that their pain was Always well controlled,Pain was always well controlled,0,27,1213,AB340
+SCDAB1331,H_COMP_4_LINEAR_SCORE,Pain management - linear mean score,Pain management - linear mean score,0,27,1213,AB10
+SCDAB1505,H_COMP_4_SN_P,Patients who reported that their pain was Sometimes or Never well controlled,Pain was sometimes or never well controlled,0,27,1213,AB152
+SCDAB611,H_COMP_4_STAR_RATING,Pain management - star rating,Pain management - star rating,2,27,1213,AB511
+SCDAB187,H_COMP_4_U_P,Patients who reported that their pain was Usually well controlled,Pain was usually well controlled,0,27,1213,AB53
+SCDAB1414,H_COMP_5_A_P,Patients who reported that staff Always explained about medicines before giving it to them,Staff always explained,0,27,1213,AB102
+SCDAB962,H_COMP_5_LINEAR_SCORE,Communication about medicines - linear mean score,Communication about medicines - linear mean score,0,27,1213,AB334
+SCDAB2610,H_COMP_5_SN_P,Patients who reported that staff Sometimes or Never explained about medicines before giving it to them,Staff sometimes or never explained,0,27,1213,AB217
+SCDAB1900,H_COMP_5_STAR_RATING,Communication about medicines - star rating,Communication about medicines - star rating,3,27,1213,AB34
+SCDAB1982,H_COMP_5_U_P,Patients who reported that staff Usually explained about medicines before giving it to them,Staff usually explained,0,27,1213,AB745
+SCDAB3373,H_COMP_6_LINEAR_SCORE,Discharge information - linear mean score,Discharge information - linear mean score,0,27,1213,AB383
+SCDAB845,H_COMP_6_STAR_RATING,Discharge information - star rating,Discharge information - star rating,4,27,1213,AB182
+SCDAB3063,H_COMP_7_A,Patients who 科Agree秋 they understood their care when they left the hospital,Patients who 科Agree秋 they understood their care when they left the hospital,0,27,1213,AB354
+SCDAB1943,H_COMP_7_D_SD,Patients who 科Disagree秋 or 科Strongly Disagree秋 they understood their care when they left the hospital,Patients who 科Disagree秋 or 科Strongly Disagree秋 they understood their care when they left the hospital,0,27,1213,AB500
+SCDAB3368,H_COMP_7_LINEAR_SCORE,Care transition - linear mean score,Care transition - linear mean score,0,27,1213,AB17
+SCDAB880,H_COMP_7_SA,Patients who Strongly Agree they understood their care when they left the hospital,Patients who 科Strongly Agree秋 they understood their care when they left the hospital,0,27,1213,AB119
+SCDAB1616,H_COMP_7_STAR_RATING,Care transition - star rating,Care transition - star rating,3,27,1213,AB646
+SCDAB984,H_HSP_RATING_0_6,Patients who gave their hospital a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 6 or lower (low),0,27,1213,AB499
+SCDAB1681,H_HSP_RATING_7_8,Patients who gave their hospital a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 7 or 8 (medium),0,27,1213,AB418
+SCDAB3014,H_HSP_RATING_9_10,Patients who gave their hospital a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 9 or 10 (high),0,27,1213,AB453
+SCDAB1695,H_HSP_RATING_LINEAR_SCORE,Overall hospital rating - linear mean score,Overall hospital rating - linear mean score,0,27,1213,AB652
+SCDAB846,H_HSP_RATING_STAR_RATING,Overall hospital rating - star rating,Overall hospital rating - star rating,4,27,1213,AB319
+SCDAB2101,H_QUIET_HSP_A_P,Patients who reported that the area around their room was Always quiet at night,Always quiet at night,0,27,1213,AB48
+SCDAB748,H_QUIET_HSP_SN_P,Patients who reported that the area around their room was Sometimes or Never quiet at night,Sometimes or never quiet at night,0,27,1213,AB655
+SCDAB1551,H_QUIET_HSP_U_P,Patients who reported that the area around their room was Usually quiet at night,Usually quiet at night,0,27,1213,AB594
+SCDAB178,H_QUIET_LINEAR_SCORE,Quietness - linear mean score,Quietness - linear mean score,0,27,1213,AB60
+SCDAB471,H_QUIET_STAR_RATING,Quietness - star rating,Quietness - star rating,4,27,1213,AB783
+SCDAB3191,H_RECMND_LINEAR_SCORE,Recommend hospital - linear mean score,Recommend hospital - linear mean score,0,27,1213,AB445
+SCDAB204,H_STAR_RATING,Summary star rating,Summary star rating,3,37,658,AB722
+SCDAB1287,H_CLEAN_HSP_A_P,Patients who reported that their room and bathroom were Always clean,Room was always clean,0,37,658,AB118
+SCDAB2441,H_CLEAN_HSP_SN_P,Patients who reported that their room and bathroom were Sometimes or Never clean,Room was sometimes or never clean,0,37,658,AB144
+SCDAB2017,H_CLEAN_HSP_U_P,Patients who reported that their room and bathroom were Usually clean,Room was usually clean,0,37,658,AB118
+SCDAB1400,H_CLEAN_LINEAR_SCORE,Cleanliness - linear mean score,Cleanliness - linear mean score,0,37,658,AB590
+SCDAB2578,H_CLEAN_STAR_RATING,Cleanliness - star rating,Cleanliness - star rating,2,37,658,AB533
+SCDAB2411,H_COMP_1_A_P,Patients who reported that their nurses Always communicated well,Nurses always communicated well,0,37,658,AB678
+SCDAB1163,H_COMP_1_LINEAR_SCORE,Nurse communication - linear mean score,Nurse communication - linear mean score,0,37,658,AB707
+SCDAB3292,H_COMP_1_SN_P,Patients who reported that their nurses Sometimes or Never communicated well,Nurses sometimes or never communicated well,0,37,658,AB2
+SCDAB837,H_COMP_1_STAR_RATING,Nurse communication - star rating,Nurse communication - star rating,3,37,658,AB543
+SCDAB2718,H_COMP_1_U_P,Patients who reported that their nurses Usually communicated well,Nurses usually communicated well,0,37,658,AB623
+SCDAB461,H_COMP_2_A_P,Patients who reported that their doctors Always communicated well,Doctors always communicated well,0,37,658,AB108
+SCDAB2399,H_COMP_2_LINEAR_SCORE,Doctor communication - linear mean score,Doctor communication - linear mean score,0,37,658,AB31
+SCDAB1081,H_COMP_2_SN_P,Patients who reported that their doctors Sometimes or Never communicated well,Doctors sometimes or never communicated well,0,37,658,AB782
+SCDAB2037,H_COMP_2_STAR_RATING,Doctor communication - star rating,Doctor communication - star rating,5,37,658,AB731
+SCDAB186,H_COMP_2_U_P,Patients who reported that their doctors Usually communicated well,Doctors usually communicated well,0,37,658,AB277
+SCDAB2191,H_COMP_3_A_P,Patients who reported that they Always received help as soon as they wanted,Patients always received help as soon as they wanted,0,37,658,AB743
+SCDAB1466,H_COMP_3_LINEAR_SCORE,Staff responsiveness - linear mean score,Staff responsiveness - linear mean score,0,37,658,AB560
+SCDAB3377,H_COMP_3_SN_P,Patients who reported that they Sometimes or Never received help as soon as they wanted,Patients sometimes or never received help as soon as they wanted,0,37,658,AB358
+SCDAB1502,H_COMP_3_STAR_RATING,Staff responsiveness - star rating,Staff responsiveness - star rating,3,37,658,AB79
+SCDAB1996,H_COMP_3_U_P,Patients who reported that they Usually received help as soon as they wanted,Patients usually received help as soon as they wanted,0,37,658,AB21
+SCDAB790,H_COMP_4_A_P,Patients who reported that their pain was Always well controlled,Pain was always well controlled,0,37,658,AB269
+SCDAB1219,H_COMP_4_LINEAR_SCORE,Pain management - linear mean score,Pain management - linear mean score,0,37,658,AB740
+SCDAB1100,H_COMP_4_SN_P,Patients who reported that their pain was Sometimes or Never well controlled,Pain was sometimes or never well controlled,0,37,658,AB572
+SCDAB1447,H_COMP_4_STAR_RATING,Pain management - star rating,Pain management - star rating,3,37,658,AB196
+SCDAB694,H_COMP_4_U_P,Patients who reported that their pain was Usually well controlled,Pain was usually well controlled,0,37,658,AB98
+SCDAB3171,H_COMP_5_A_P,Patients who reported that staff Always explained about medicines before giving it to them,Staff always explained,0,37,658,AB759
+SCDAB1912,H_COMP_5_LINEAR_SCORE,Communication about medicines - linear mean score,Communication about medicines - linear mean score,0,37,658,AB234
+SCDAB894,H_COMP_5_SN_P,Patients who reported that staff Sometimes or Never explained about medicines before giving it to them,Staff sometimes or never explained,0,37,658,AB638
+SCDAB1904,H_COMP_5_STAR_RATING,Communication about medicines - star rating,Communication about medicines - star rating,3,37,658,AB304
+SCDAB801,H_COMP_5_U_P,Patients who reported that staff Usually explained about medicines before giving it to them,Staff usually explained,0,37,658,AB169
+SCDAB2829,H_COMP_6_LINEAR_SCORE,Discharge information - linear mean score,Discharge information - linear mean score,0,37,658,AB306
+SCDAB2764,H_COMP_6_STAR_RATING,Discharge information - star rating,Discharge information - star rating,4,37,658,AB175
+SCDAB192,H_COMP_7_A,Patients who 科Agree秋 they understood their care when they left the hospital,Patients who 科Agree秋 they understood their care when they left the hospital,0,37,658,AB15
+SCDAB555,H_COMP_7_D_SD,Patients who 科Disagree秋 or 科Strongly Disagree秋 they understood their care when they left the hospital,Patients who 科Disagree秋 or 科Strongly Disagree秋 they understood their care when they left the hospital,0,37,658,AB677
+SCDAB614,H_COMP_7_LINEAR_SCORE,Care transition - linear mean score,Care transition - linear mean score,0,37,658,AB177
+SCDAB1136,H_COMP_7_SA,Patients who Strongly Agree they understood their care when they left the hospital,Patients who 科Strongly Agree秋 they understood their care when they left the hospital,0,37,658,AB553
+SCDAB2327,H_COMP_7_STAR_RATING,Care transition - star rating,Care transition - star rating,3,37,658,AB80
+SCDAB58,H_HSP_RATING_0_6,Patients who gave their hospital a rating of 6 or lower on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 6 or lower (low),0,37,658,AB732
+SCDAB1509,H_HSP_RATING_7_8,Patients who gave their hospital a rating of 7 or 8 on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 7 or 8 (medium),0,37,658,AB541
+SCDAB2839,H_HSP_RATING_9_10,Patients who gave their hospital a rating of 9 or 10 on a scale from 0 (lowest) to 10 (highest),Patients who gave a rating of 9 or 10 (high),0,37,658,AB48
+SCDAB2426,H_HSP_RATING_LINEAR_SCORE,Overall hospital rating - linear mean score,Overall hospital rating - linear mean score,0,37,658,AB112
+SCDAB1990,H_HSP_RATING_STAR_RATING,Overall hospital rating - star rating,Overall hospital rating - star rating,4,37,658,AB146
+SCDAB2800,H_QUIET_HSP_A_P,Patients who reported that the area around their room was Always quiet at night,Always quiet at night,0,37,658,AB679
+SCDAB1643,H_QUIET_HSP_SN_P,Patients who reported that the area around their room was Sometimes or Never quiet at night,Sometimes or never quiet at night,0,37,658,AB631
+SCDAB1350,H_QUIET_HSP_U_P,Patients who reported that the area around their room was Usually quiet at night,Usually quiet at night,0,37,658,AB226
+SCDAB2042,H_QUIET_LINEAR_SCORE,Quietness - linear mean score,Quietness - linear mean score,0,37,658,AB341
+SCDAB3176,H_QUIET_STAR_RATING,Quietness - star rating,Quietness - star rating,4,37,658,AB785
+SCDAB536,H_RECMND_LINEAR_SCORE,Recommend hospital - linear mean score,Recommend hospital - linear mean score,0,37,658,AB561
+SCDAB1314,H_RECMND_STAR_RATING,Recommend hospital - star rating,Recommend hospital - star rating,3,37,658,AB140
+SCDAB1598,H_STAR_RATING,Summary star rating,Summary star rating,3,25,376,AB245
+SCDAB421,H_CLEAN_HSP_A_P,Patients who reported that their room and bathroom were Always clean,Room was always clean,0,25,376,AB463
+SCDAB2680,H_CLEAN_HSP_SN_P,Patients who reported that their room and bathroom were Sometimes or Never clean,Room was sometimes or never clean,0,25,376,AB532
+SCDAB211,H_CLEAN_HSP_U_P,Patients who reported that their room and bathroom were Usually clean,Room was usually clean,0,25,376,AB575
+SCDAB3289,H_CLEAN_LINEAR_SCORE,Cleanliness - linear mean score,Cleanliness - linear mean score,0,25,376,AB417
+SCDAB378,H_CLEAN_STAR_RATING,Cleanliness - star rating,Cleanliness - star rating,2,25,376,AB40
+SCDAB2995,H_COMP_1_A_P,Patients who reported that their nurses Always communicated well,Nurses always communicated well,0,25,376,AB272
+SCDAB1780,H_COMP_1_LINEAR_SCORE,Nurse communication - linear mean score,Nurse communication - linear mean score,0,25,376,AB314
+SCDAB3317,H_COMP_1_SN_P,Patients who reported that their nurses Sometimes or Never communicated well,Nurses sometimes or never communicated well,0,25,376,AB115
+SCDAB405,H_COMP_1_STAR_RATING,Nurse communication - star rating,Nurse communication - star rating,3,25,376,AB414
+SCDAB2196,H_COMP_1_U_P,Patients who reported that their nurses Usually communicated well,Nurses usually communicated well,0,25,376,AB144
+SCDAB734,H_COMP_2_A_P,Patients who reported that their doctors Always communicated well,Doctors always communicated well,0,25,376,AB384
+SCDAB735,H_COMP_2_LINEAR_SCORE,Doctor communication - linear mean score,Doctor communication - linear mean score,0,25,376,AB75
+SCDAB1711,H_COMP_2_SN_P,Patients who reported that their doctors Sometimes or Never communicated well,Doctors sometimes or never communicated well,0,25,376,AB335
