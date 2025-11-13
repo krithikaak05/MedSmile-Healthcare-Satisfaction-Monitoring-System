@@ -347,6 +347,8 @@ MedSmile_Healthcare_Satisfaction_Monitoring/
 ├── CONCEPTUAL_DATA_WAREHOUSE.pdf
 ├── ERD_DIAGRAM.png
 ├── MedSmile_Queries.sql
+├── POWERBI_DASHBOARD.png
+├── STAR_SCHEMA_DIAGRAM.png
 ├── MedSmileHealthcareSatisfactionMonitoringSystem_OnPremise.pdf
 └── README.md
 ```
