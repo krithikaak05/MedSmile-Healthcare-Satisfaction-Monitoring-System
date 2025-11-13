@@ -328,7 +328,24 @@ MedSmile_Healthcare_Satisfaction_Monitoring/
 ├── DimensionTables/
 │   ├── EmergencyServicesDetails_ERDimension.item
 │   ├── EmergencyServicesDetails_ERDimension.properties
-│   ├─
+│   ├── HospitalDetails_HospitalDimension.item
+│   ├── HospitalDetails_HospitalDimension.properties
+│   ├── LocationTableToLocationDim_0.1.item
+│   ├── LocationTableToLocationDim_0.1.properties
+│   ├── PatientTable_PatientDim_0.1.item
+│   ├── PatientTable_PatientDim_0.1.properties
+│   ├── SurveyTableDetailsToSurveyTable.item
+│   └── SurveyTableDetailsToSurveyTable.properties
+│
+├── FactTables/
+│   ├── DimensionTablesToSurveyFact_0.1.item
+│   └── DimensionTablesToSurveyFact_0.1.properties
+│
+├── CONCEPTUAL_DATA_WAREHOUSE.pdf
+├── ERD_DIAGRAM.png
+├── MedSmile_Queries.sql
+├── MedSmileHealthcareSatisfactionMonitoringSystem_OnPremise.pdf
+└── README.md
 ```
 ---
 
