@@ -86,8 +86,8 @@ However, this data is **fragmented across different systems**, making it hard to
   - [US Hospital Customer Satisfaction (2016–2020)](https://www.kaggle.com/datasets/abrambeyer/us-hospital-customer-satisfaction-20162020)
 
 ### 🔹 Relational Model (OLTP)
-- **Hospital_Details**(`PatientID`, `FacilityID`, `Facility_Name`, `Phone_Number`, `Address`, `Street`, `City`, `County`, `State`, `Zipcode`, `HospitalOwnership`, `HospitalType`)  
-- **Location**(`LocationID`, `City`, `County`, `State`, `Zipcode`, `Address`, `Facility_Name`)  
+- **Hospital_Details**(`PatientID`, `FacilityID`, `Facility_Name`, `Phone_Number`, `Address`, `Street`, `City`, `State`, `Zipcode`, `HospitalOwnership`, `HospitalType`)  
+- **Location**(`LocationID`, `City`, `State`, `Zipcode`, `Address`, `Facility_Name`)  
 - **Patient_Details**(`PatientID`, `Patient_Type`, `Insurance_Type`)  
 - **Survey_Details**(`SurveyID`, `PatientID`, `HCAHPSMeasureID`, `HCAHPS_Question`, `HCAHPS_Answer`, `PatientSurveyStarRating`, `SurveyResponseRatePercent`, `NumberofCompletedSurveys`)  
 - **Emergency_Services**(`ServiceID`, `ServiceType`, `Availability`, `ResponseTime`, `Capacity`)  
