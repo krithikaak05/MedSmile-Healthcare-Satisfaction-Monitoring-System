@@ -1,0 +1,1344 @@
+"serviceid","servicetype","availability","responsetime","capacity"
+SS002,Burn Unit,Yes,30,39
+SS001,Ambulance Service,Yes,32,23
+SS003,Cardiac Emergency Unit,Yes,81,15
+SS004,Pediatric ER,Yes,109,41
+SS005,Emergency Room,Yes,93,50
+SS006,Cardiac Emergency Unit,Yes,76,50
+SS007,Trauma Center,Yes,36,45
+SS008,Emergency Room,Yes,98,40
+SS009,Stroke Unit,Yes,73,51
+SS010,Pediatric ER,Yes,42,37
+SS011,Emergency Room,Yes,45,31
+SS012,Emergency Room,Yes,74,34
+SS013,Trauma Center,Yes,34,18
+SS014,Emergency Room,Yes,70,53
+SS015,Psychiatric Emergency,Yes,60,30
+SS016,Cardiac Emergency Unit,Yes,95,25
+SS017,Ambulance Service,Yes,35,32
+SS018,Stroke Unit,Yes,71,15
+SS019,Ambulance Service,Yes,50,39
+SS020,Burn Unit,Yes,49,15
+SS021,Emergency Room,Yes,40,12
+SS022,Stroke Unit,Yes,112,18
+SS023,Stroke Unit,Yes,64,36
+SS024,Cardiac Emergency Unit,Yes,38,18
+SS025,Emergency Room,Yes,38,30
+SS026,Trauma Center,Yes,41,34
+SS027,Ambulance Service,Yes,94,33
+SS028,Burn Unit,Yes,27,55
+SS029,Pediatric ER,Yes,114,17
+SS030,Emergency Room,Yes,102,13
+SS031,Pediatric ER,Yes,55,56
+SS032,Ambulance Service,Yes,48,22
+SS033,Stroke Unit,Yes,14,29
+SS034,Emergency Room,Yes,36,54
+SS035,Burn Unit,Yes,61,32
+SS036,Stroke Unit,Yes,34,43
+SS037,Emergency Room,Yes,79,26
+SS038,Ambulance Service,Yes,50,16
+SS039,Pediatric ER,Yes,16,49
+SS040,Ambulance Service,Yes,15,23
+SS041,Cardiac Emergency Unit,Yes,26,58
+SS042,Psychiatric Emergency,Yes,52,59
+SS043,Trauma Center,Yes,67,51
+SS044,Ambulance Service,Yes,117,24
+SS045,Burn Unit,Yes,87,19
+SS046,Burn Unit,Yes,13,45
+SS047,Ambulance Service,Yes,79,25
+SS048,Pediatric ER,Yes,62,59
+SS049,Ambulance Service,Yes,85,23
+SS050,Psychiatric Emergency,Yes,111,39
+SS051,Cardiac Emergency Unit,Yes,104,23
+SS052,Ambulance Service,Yes,118,28
+SS053,Psychiatric Emergency,Yes,24,48
+SS054,Trauma Center,Yes,61,34
+SS055,Burn Unit,Yes,63,32
+SS056,Stroke Unit,Yes,15,21
+SS057,Trauma Center,Yes,96,23
+SS058,Psychiatric Emergency,Yes,16,31
+SS059,Emergency Room,Yes,106,41
+SS060,Psychiatric Emergency,Yes,82,39
+SS061,Psychiatric Emergency,Yes,110,36
+SS062,Cardiac Emergency Unit,Yes,102,50
+SS063,Emergency Room,Yes,58,38
+SS064,Stroke Unit,Yes,78,41
+SS065,Psychiatric Emergency,Yes,90,20
+SS066,Cardiac Emergency Unit,Yes,59,27
+SS067,Trauma Center,Yes,35,49
+SS068,Stroke Unit,Yes,30,14
+SS069,Psychiatric Emergency,Yes,59,28
+SS070,Burn Unit,Yes,75,23
+SS071,Psychiatric Emergency,Yes,21,36
+SS072,Trauma Center,Yes,49,50
+SS073,Cardiac Emergency Unit,Yes,61,38
+SS074,Psychiatric Emergency,Yes,80,49
+SS075,Psychiatric Emergency,Yes,19,23
+SS076,Ambulance Service,Yes,57,37
+SS077,Burn Unit,Yes,88,28
+SS078,Cardiac Emergency Unit,Yes,85,49
+SS079,Pediatric ER,Yes,72,53
+SS080,Cardiac Emergency Unit,Yes,15,57
+SS081,Emergency Room,Yes,39,45
+SS082,Psychiatric Emergency,Yes,100,11
+SS083,Psychiatric Emergency,Yes,56,41
+SS084,Stroke Unit,Yes,29,46
+SS085,Psychiatric Emergency,Yes,118,48
+SS086,Cardiac Emergency Unit,Yes,98,56
+SS087,Burn Unit,Yes,74,40
+SS088,Trauma Center,Yes,34,31
+SS089,Psychiatric Emergency,Yes,107,47
+SS090,Emergency Room,Yes,118,56
+SS091,Pediatric ER,Yes,120,47
+SS092,Pediatric ER,Yes,74,30
+SS093,Trauma Center,Yes,100,14
+SS094,Psychiatric Emergency,Yes,38,26
+SS095,Cardiac Emergency Unit,Yes,73,17
+SS096,Ambulance Service,Yes,35,18
+SS097,Trauma Center,Yes,111,40
+SS098,Ambulance Service,Yes,16,37
+SS099,Cardiac Emergency Unit,Yes,16,25
+SS100,Psychiatric Emergency,Yes,30,56
+SS101,Burn Unit,Yes,74,57
+SS102,Pediatric ER,Yes,112,53
+SS103,Ambulance Service,Yes,98,52
+SS104,Stroke Unit,Yes,76,12
+SS105,Pediatric ER,Yes,114,37
+SS106,Pediatric ER,Yes,12,16
+SS107,Burn Unit,Yes,90,25
+SS108,Cardiac Emergency Unit,Yes,62,24
+SS109,Pediatric ER,Yes,30,50
+SS110,Pediatric ER,Yes,92,39
+SS111,Emergency Room,Yes,72,17
+SS112,Trauma Center,Yes,11,43
+SS113,Trauma Center,Yes,101,55
+SS114,Stroke Unit,Yes,44,10
+SS115,Emergency Room,Yes,32,24
+SS116,Stroke Unit,Yes,114,59
+SS117,Trauma Center,Yes,65,14
+SS118,Stroke Unit,Yes,94,39
+SS119,Cardiac Emergency Unit,Yes,38,14
+SS120,Trauma Center,Yes,27,32
+SS121,Stroke Unit,Yes,22,41
+SS122,Ambulance Service,Yes,50,55
+SS123,Ambulance Service,Yes,46,56
+SS124,Burn Unit,Yes,28,54
+SS125,Psychiatric Emergency,Yes,14,49
+SS126,Cardiac Emergency Unit,Yes,84,54
+SS127,Psychiatric Emergency,Yes,112,35
+SS128,Pediatric ER,Yes,26,21
+SS129,Emergency Room,Yes,36,20
+SS130,Emergency Room,Yes,81,39
+SS131,Emergency Room,Yes,107,22
+SS132,Psychiatric Emergency,Yes,35,60
+SS133,Emergency Room,Yes,15,12
+SS134,Ambulance Service,Yes,101,59
+SS135,Emergency Room,Yes,28,50
+SS136,Burn Unit,Yes,75,35
+SS137,Ambulance Service,Yes,75,11
+SS138,Trauma Center,Yes,40,19
+SS139,Emergency Room,Yes,71,23
+SS140,Ambulance Service,Yes,53,17
+SS141,Stroke Unit,Yes,106,56
+SS142,Ambulance Service,Yes,115,59
+SS143,Cardiac Emergency Unit,Yes,45,58
+SS144,Trauma Center,Yes,48,24
+SS145,Burn Unit,Yes,11,10
+SS146,Emergency Room,Yes,65,15
+SS147,Cardiac Emergency Unit,Yes,42,15
+SS148,Emergency Room,Yes,97,32
+SS149,Burn Unit,Yes,82,24
+SS150,Emergency Room,Yes,92,55
+SS151,Burn Unit,Yes,50,35
+SS152,Psychiatric Emergency,Yes,44,41
+SS153,Pediatric ER,Yes,37,28
+SS154,Cardiac Emergency Unit,Yes,66,50
+SS155,Psychiatric Emergency,Yes,25,34
+SS156,Emergency Room,Yes,65,44
+SS157,Emergency Room,Yes,58,23
+SS158,Emergency Room,Yes,111,47
+SS159,Stroke Unit,Yes,81,33
+SS160,Ambulance Service,Yes,119,32
+SS161,Stroke Unit,Yes,83,44
+SS162,Trauma Center,Yes,108,50
+SS163,Ambulance Service,Yes,69,60
+SS164,Cardiac Emergency Unit,Yes,113,10
+SS165,Cardiac Emergency Unit,Yes,93,16
+SS166,Emergency Room,Yes,72,24
+SS167,Trauma Center,Yes,111,59
+SS168,Cardiac Emergency Unit,Yes,79,56
+SS169,Pediatric ER,Yes,102,36
+SS170,Cardiac Emergency Unit,Yes,36,49
+SS171,Pediatric ER,Yes,79,23
+SS172,Emergency Room,Yes,14,23
+SS173,Trauma Center,Yes,37,51
+SS174,Emergency Room,Yes,74,38
+SS175,Cardiac Emergency Unit,Yes,45,51
+SS176,Emergency Room,Yes,28,24
+SS177,Burn Unit,Yes,113,20
+SS178,Stroke Unit,Yes,110,12
+SS179,Stroke Unit,Yes,68,23
+SS180,Ambulance Service,Yes,110,39
+SS181,Trauma Center,Yes,49,40
+SS182,Cardiac Emergency Unit,Yes,87,17
+SS183,Burn Unit,Yes,88,43
+SS184,Emergency Room,Yes,86,39
+SS185,Pediatric ER,Yes,13,35
+SS186,Pediatric ER,Yes,49,28
+SS187,Burn Unit,Yes,112,36
+SS188,Cardiac Emergency Unit,Yes,92,53
+SS189,Cardiac Emergency Unit,Yes,76,58
+SS190,Trauma Center,Yes,15,25
+SS191,Cardiac Emergency Unit,Yes,30,52
+SS192,Psychiatric Emergency,Yes,28,23
+SS193,Pediatric ER,Yes,83,57
+SS194,Psychiatric Emergency,Yes,64,19
+SS195,Burn Unit,Yes,77,34
+SS196,Emergency Room,Yes,20,54
+SS197,Stroke Unit,Yes,43,12
+SS198,Psychiatric Emergency,Yes,12,54
+SS199,Stroke Unit,Yes,14,12
+SS200,Cardiac Emergency Unit,Yes,44,36
+SS201,Burn Unit,Yes,106,10
+SS202,Pediatric ER,Yes,52,34
+SS203,Ambulance Service,Yes,116,52
+SS204,Trauma Center,Yes,104,58
+SS205,Stroke Unit,Yes,41,26
+SS206,Trauma Center,Yes,30,58
+SS207,Cardiac Emergency Unit,Yes,107,14
+SS208,Ambulance Service,Yes,95,55
+SS209,Ambulance Service,Yes,105,23
+SS210,Ambulance Service,Yes,113,39
+SS211,Ambulance Service,Yes,94,55
+SS212,Cardiac Emergency Unit,Yes,120,43
+SS213,Psychiatric Emergency,Yes,43,14
+SS214,Cardiac Emergency Unit,Yes,73,22
+SS215,Cardiac Emergency Unit,Yes,34,36
+SS216,Pediatric ER,Yes,34,42
+SS217,Emergency Room,Yes,33,18
+SS218,Emergency Room,Yes,11,27
+SS219,Trauma Center,Yes,12,15
+SS220,Ambulance Service,Yes,60,57
+SS221,Trauma Center,Yes,118,60
+SS222,Psychiatric Emergency,Yes,13,10
+SS223,Trauma Center,Yes,101,39
+SS224,Trauma Center,Yes,119,24
+SS225,Psychiatric Emergency,Yes,26,11
+SS226,Ambulance Service,Yes,55,37
+SS227,Trauma Center,Yes,96,15
+SS228,Stroke Unit,Yes,92,19
+SS229,Emergency Room,Yes,27,28
+SS230,Psychiatric Emergency,Yes,64,44
+SS231,Cardiac Emergency Unit,Yes,48,56
+SS232,Burn Unit,Yes,117,38
+SS233,Cardiac Emergency Unit,Yes,36,25
+SS234,Psychiatric Emergency,Yes,52,26
+SS235,Ambulance Service,Yes,105,55
+SS236,Pediatric ER,Yes,84,10
+SS237,Emergency Room,Yes,71,27
+SS238,Psychiatric Emergency,Yes,27,54
+SS239,Emergency Room,Yes,69,10
+SS240,Burn Unit,Yes,87,44
+SS241,Psychiatric Emergency,Yes,34,47
+SS242,Ambulance Service,Yes,73,56
+SS243,Burn Unit,Yes,108,29
+SS244,Burn Unit,Yes,21,27
+SS245,Cardiac Emergency Unit,Yes,111,11
+SS246,Pediatric ER,Yes,40,60
+SS247,Psychiatric Emergency,Yes,73,48
+SS248,Burn Unit,Yes,45,48
+SS249,Ambulance Service,Yes,57,18
+SS250,Ambulance Service,Yes,73,29
+SS251,Burn Unit,Yes,60,52
+SS252,Burn Unit,Yes,75,43
+SS253,Stroke Unit,Yes,114,56
+SS254,Burn Unit,Yes,70,10
+SS255,Trauma Center,Yes,113,19
+SS256,Emergency Room,Yes,12,17
+SS257,Cardiac Emergency Unit,Yes,119,38
+SS258,Burn Unit,Yes,24,33
+SS259,Psychiatric Emergency,Yes,58,33
+SS260,Psychiatric Emergency,Yes,93,24
+SS261,Emergency Room,Yes,79,53
+SS262,Pediatric ER,Yes,112,21
+SS263,Burn Unit,Yes,71,43
+SS264,Burn Unit,Yes,116,23
+SS265,Cardiac Emergency Unit,Yes,46,31
+SS266,Burn Unit,Yes,15,27
+SS267,Psychiatric Emergency,Yes,105,10
+SS268,Burn Unit,Yes,57,12
+SS269,Trauma Center,Yes,87,14
+SS270,Emergency Room,Yes,72,51
+SS271,Psychiatric Emergency,Yes,106,21
+SS272,Psychiatric Emergency,Yes,108,20
+SS273,Psychiatric Emergency,Yes,14,33
+SS274,Emergency Room,Yes,24,57
+SS275,Cardiac Emergency Unit,Yes,91,44
+SS276,Psychiatric Emergency,Yes,88,10
+SS277,Cardiac Emergency Unit,Yes,118,13
+SS278,Psychiatric Emergency,Yes,91,49
+SS279,Pediatric ER,Yes,96,11
+SS280,Trauma Center,Yes,114,55
+SS281,Psychiatric Emergency,Yes,39,41
+SS282,Trauma Center,Yes,43,23
+SS283,Trauma Center,Yes,111,10
+SS284,Trauma Center,Yes,89,11
+SS285,Pediatric ER,Yes,32,56
+SS286,Psychiatric Emergency,Yes,11,13
+SS287,Ambulance Service,Yes,92,37
+SS288,Pediatric ER,Yes,103,17
+SS289,Stroke Unit,Yes,100,55
+SS290,Pediatric ER,Yes,96,39
+SS291,Stroke Unit,Yes,109,45
+SS292,Psychiatric Emergency,Yes,100,54
+SS293,Emergency Room,Yes,106,30
+SS294,Cardiac Emergency Unit,Yes,60,35
+SS295,Trauma Center,Yes,72,58
+SS296,Cardiac Emergency Unit,Yes,66,43
+SS297,Cardiac Emergency Unit,Yes,68,54
+SS298,Cardiac Emergency Unit,Yes,76,24
+SS299,Trauma Center,Yes,86,24
+SS300,Emergency Room,Yes,56,39
+SS301,Cardiac Emergency Unit,Yes,82,36
+SS302,Emergency Room,Yes,64,13
+SS303,Cardiac Emergency Unit,Yes,71,34
+SS304,Cardiac Emergency Unit,Yes,54,10
+SS305,Pediatric ER,Yes,52,28
+SS306,Pediatric ER,Yes,40,18
+SS307,Stroke Unit,Yes,106,34
+SS308,Emergency Room,Yes,10,27
+SS309,Stroke Unit,Yes,94,58
+SS310,Psychiatric Emergency,Yes,75,57
+SS311,Emergency Room,Yes,120,24
+SS312,Burn Unit,Yes,43,15
+SS313,Ambulance Service,Yes,82,17
+SS314,Burn Unit,Yes,83,19
+SS315,Burn Unit,Yes,43,31
+SS316,Ambulance Service,Yes,78,44
+SS317,Trauma Center,Yes,24,24
+SS318,Burn Unit,Yes,78,15
+SS319,Stroke Unit,Yes,44,50
+SS320,Burn Unit,Yes,91,36
+SS321,Cardiac Emergency Unit,Yes,106,38
+SS322,Trauma Center,Yes,112,41
+SS323,Stroke Unit,Yes,68,52
+SS324,Ambulance Service,Yes,81,44
+SS325,Emergency Room,Yes,13,56
+SS326,Emergency Room,Yes,83,20
+SS327,Burn Unit,Yes,44,47
+SS328,Psychiatric Emergency,Yes,40,39
+SS329,Burn Unit,Yes,61,12
+SS330,Trauma Center,Yes,10,15
+SS331,Cardiac Emergency Unit,Yes,102,33
+SS332,Trauma Center,Yes,116,59
+SS333,Burn Unit,Yes,31,24
+SS334,Cardiac Emergency Unit,Yes,62,15
+SS335,Pediatric ER,Yes,53,11
+SS336,Ambulance Service,Yes,63,12
+SS337,Emergency Room,Yes,70,29
+SS338,Emergency Room,Yes,98,24
+SS339,Emergency Room,Yes,54,41
+SS340,Pediatric ER,Yes,60,59
+SS341,Cardiac Emergency Unit,Yes,18,46
+SS342,Trauma Center,Yes,100,33
+SS343,Burn Unit,Yes,117,49
+SS344,Psychiatric Emergency,Yes,11,55
+SS345,Emergency Room,Yes,45,13
+SS346,Cardiac Emergency Unit,Yes,71,41
+SS347,Stroke Unit,Yes,10,50
+SS348,Emergency Room,Yes,93,54
+SS349,Trauma Center,Yes,76,15
+SS350,Emergency Room,Yes,15,14
+SS351,Emergency Room,Yes,45,32
+SS352,Ambulance Service,Yes,82,52
+SS353,Ambulance Service,Yes,49,13
+SS354,Psychiatric Emergency,Yes,28,28
+SS355,Psychiatric Emergency,Yes,92,31
+SS356,Burn Unit,Yes,17,30
+SS357,Burn Unit,Yes,117,19
+SS358,Trauma Center,Yes,36,43
+SS359,Burn Unit,Yes,92,43
+SS360,Ambulance Service,Yes,106,31
+SS361,Stroke Unit,Yes,50,56
+SS362,Ambulance Service,Yes,83,13
+SS363,Trauma Center,Yes,81,50
+SS364,Psychiatric Emergency,Yes,104,11
+SS365,Trauma Center,Yes,73,44
+SS366,Emergency Room,Yes,95,40
+SS367,Stroke Unit,Yes,119,37
+SS368,Ambulance Service,Yes,11,12
+SS369,Ambulance Service,Yes,32,35
+SS370,Burn Unit,Yes,36,17
+SS371,Cardiac Emergency Unit,Yes,19,26
+SS372,Stroke Unit,Yes,38,12
+SS373,Stroke Unit,Yes,110,35
+SS374,Burn Unit,Yes,93,27
+SS375,Stroke Unit,Yes,119,56
+SS376,Ambulance Service,Yes,81,59
+SS377,Psychiatric Emergency,Yes,117,51
+SS378,Cardiac Emergency Unit,Yes,13,42
+SS379,Emergency Room,Yes,115,46
+SS380,Pediatric ER,Yes,114,24
+SS381,Pediatric ER,Yes,98,22
+SS382,Burn Unit,Yes,28,18
+SS383,Pediatric ER,Yes,115,53
+SS384,Emergency Room,Yes,54,40
+SS385,Burn Unit,Yes,79,39
+SS386,Trauma Center,Yes,98,29
+SS387,Burn Unit,Yes,55,58
+SS388,Pediatric ER,Yes,39,57
+SS389,Cardiac Emergency Unit,Yes,72,34
+SS390,Emergency Room,Yes,86,38
+SS391,Emergency Room,Yes,43,30
+SS392,Trauma Center,Yes,78,57
+SS393,Trauma Center,Yes,114,26
+SS394,Cardiac Emergency Unit,Yes,91,22
+SS395,Burn Unit,Yes,64,32
+SS396,Psychiatric Emergency,Yes,29,32
+SS397,Psychiatric Emergency,Yes,37,35
+SS398,Emergency Room,Yes,81,38
+SS399,Emergency Room,Yes,41,41
+SS400,Trauma Center,Yes,22,43
+SS401,Burn Unit,Yes,65,46
+SS402,Pediatric ER,Yes,57,33
+SS403,Ambulance Service,Yes,21,14
+SS404,Burn Unit,Yes,108,57
+SS405,Trauma Center,Yes,63,49
+SS406,Ambulance Service,Yes,29,44
+SS407,Pediatric ER,Yes,108,36
+SS408,Psychiatric Emergency,Yes,33,22
+SS409,Trauma Center,Yes,94,29
+SS410,Burn Unit,Yes,69,33
+SS411,Stroke Unit,Yes,94,11
+SS412,Ambulance Service,Yes,97,15
+SS413,Stroke Unit,Yes,109,60
+SS414,Psychiatric Emergency,Yes,99,30
+SS415,Stroke Unit,Yes,74,39
+SS416,Burn Unit,Yes,74,43
+SS417,Burn Unit,Yes,67,20
+SS418,Ambulance Service,Yes,92,52
+SS419,Stroke Unit,Yes,53,24
+SS420,Emergency Room,Yes,10,41
+SS421,Emergency Room,Yes,78,59
+SS422,Pediatric ER,Yes,84,47
+SS423,Stroke Unit,Yes,105,46
+SS424,Ambulance Service,Yes,36,26
+SS425,Ambulance Service,Yes,80,46
+SS426,Psychiatric Emergency,Yes,20,45
+SS427,Cardiac Emergency Unit,Yes,12,46
+SS428,Ambulance Service,Yes,54,28
+SS429,Cardiac Emergency Unit,Yes,89,38
+SS430,Emergency Room,Yes,74,51
+SS431,Ambulance Service,Yes,37,21
+SS432,Cardiac Emergency Unit,Yes,74,10
+SS433,Psychiatric Emergency,Yes,48,26
+SS434,Stroke Unit,Yes,44,34
+SS435,Stroke Unit,Yes,76,60
+SS436,Pediatric ER,Yes,18,33
+SS437,Stroke Unit,Yes,11,22
+SS438,Cardiac Emergency Unit,Yes,20,34
+SS439,Psychiatric Emergency,Yes,79,13
+SS440,Trauma Center,Yes,84,42
+SS441,Psychiatric Emergency,Yes,62,10
+SS442,Emergency Room,Yes,41,58
+SS443,Emergency Room,Yes,16,56
+SS444,Ambulance Service,Yes,23,58
+SS445,Psychiatric Emergency,Yes,106,54
+SS446,Stroke Unit,Yes,68,19
+SS447,Burn Unit,Yes,73,11
+SS448,Psychiatric Emergency,Yes,115,55
+SS449,Burn Unit,Yes,92,36
+SS450,Stroke Unit,Yes,72,16
+SS451,Pediatric ER,Yes,55,30
+SS452,Ambulance Service,Yes,23,41
+SS453,Pediatric ER,Yes,78,55
+SS454,Pediatric ER,Yes,18,37
+SS455,Emergency Room,Yes,60,60
+SS456,Psychiatric Emergency,Yes,47,10
+SS457,Cardiac Emergency Unit,Yes,82,16
+SS458,Stroke Unit,Yes,19,43
+SS459,Cardiac Emergency Unit,Yes,82,23
+SS460,Emergency Room,Yes,96,48
+SS461,Emergency Room,Yes,55,26
+SS462,Emergency Room,Yes,35,42
+SS463,Pediatric ER,Yes,50,25
+SS464,Psychiatric Emergency,Yes,92,32
+SS465,Pediatric ER,Yes,57,34
+SS466,Psychiatric Emergency,Yes,97,18
+SS467,Cardiac Emergency Unit,Yes,111,31
+SS468,Trauma Center,Yes,11,51
+SS469,Stroke Unit,Yes,102,42
+SS470,Burn Unit,Yes,46,17
+SS471,Trauma Center,Yes,86,47
+SS472,Psychiatric Emergency,Yes,29,51
+SS473,Stroke Unit,Yes,33,12
+SS474,Burn Unit,Yes,41,54
+SS475,Trauma Center,Yes,48,25
+SS476,Burn Unit,Yes,85,38
+SS477,Pediatric ER,Yes,22,30
+SS478,Psychiatric Emergency,Yes,85,52
+SS479,Ambulance Service,Yes,22,25
+SS480,Burn Unit,Yes,22,35
+SS481,Trauma Center,Yes,93,33
+SS482,Emergency Room,Yes,33,60
+SS483,Cardiac Emergency Unit,Yes,73,53
+SS484,Pediatric ER,Yes,48,43
+SS485,Trauma Center,Yes,85,16
+SS486,Psychiatric Emergency,Yes,118,59
+SS487,Pediatric ER,Yes,59,57
+SS488,Psychiatric Emergency,Yes,19,47
+SS489,Ambulance Service,Yes,51,12
+SS490,Trauma Center,Yes,52,43
+SS491,Cardiac Emergency Unit,Yes,113,32
+SS492,Ambulance Service,Yes,16,39
+SS493,Stroke Unit,Yes,69,23
+SS494,Trauma Center,Yes,36,12
+SS495,Stroke Unit,Yes,65,55
+SS496,Emergency Room,Yes,112,29
+SS497,Pediatric ER,Yes,111,25
+SS498,Cardiac Emergency Unit,Yes,110,51
+SS499,Psychiatric Emergency,Yes,104,13
+SS500,Stroke Unit,Yes,62,60
+SS501,Pediatric ER,Yes,32,36
+SS502,Cardiac Emergency Unit,Yes,13,51
+SS503,Pediatric ER,Yes,69,51
+SS504,Psychiatric Emergency,Yes,90,24
+SS505,Ambulance Service,Yes,34,11
+SS506,Ambulance Service,Yes,113,29
+SS507,Psychiatric Emergency,Yes,20,25
+SS508,Stroke Unit,Yes,95,28
+SS509,Burn Unit,Yes,46,34
+SS510,Burn Unit,Yes,11,31
+SS511,Trauma Center,Yes,43,20
+SS512,Emergency Room,Yes,19,21
+SS513,Pediatric ER,Yes,26,38
+SS514,Psychiatric Emergency,Yes,20,58
+SS515,Pediatric ER,Yes,22,54
+SS516,Stroke Unit,Yes,64,59
+SS517,Emergency Room,Yes,96,55
+SS518,Trauma Center,Yes,102,32
+SS519,Burn Unit,Yes,91,13
+SS520,Cardiac Emergency Unit,Yes,62,32
+SS521,Pediatric ER,Yes,49,37
+SS522,Pediatric ER,Yes,102,41
+SS523,Pediatric ER,Yes,84,56
+SS524,Emergency Room,Yes,68,50
+SS525,Pediatric ER,Yes,94,21
+SS526,Burn Unit,Yes,27,37
+SS527,Cardiac Emergency Unit,Yes,33,42
+SS528,Pediatric ER,Yes,66,53
+SS529,Burn Unit,Yes,51,19
+SS530,Burn Unit,Yes,101,48
+SS531,Trauma Center,Yes,93,32
+SS532,Stroke Unit,Yes,90,34
+SS533,Cardiac Emergency Unit,Yes,44,24
+SS534,Psychiatric Emergency,Yes,64,17
+SS535,Trauma Center,Yes,10,56
+SS536,Trauma Center,Yes,45,39
+SS537,Cardiac Emergency Unit,Yes,28,57
+SS538,Pediatric ER,Yes,69,21
+SS539,Pediatric ER,Yes,57,15
+SS540,Psychiatric Emergency,Yes,89,34
+SS541,Cardiac Emergency Unit,Yes,54,17
+SS542,Trauma Center,Yes,108,39
+SS543,Stroke Unit,Yes,29,56
+SS544,Ambulance Service,Yes,39,34
+SS545,Trauma Center,Yes,111,33
+SS546,Trauma Center,Yes,61,41
+SS547,Psychiatric Emergency,Yes,43,29
+SS548,Stroke Unit,Yes,52,19
+SS549,Stroke Unit,Yes,39,40
+SS550,Emergency Room,Yes,104,43
+SS551,Trauma Center,Yes,85,60
+SS552,Emergency Room,Yes,75,59
+SS553,Trauma Center,Yes,79,30
+SS554,Cardiac Emergency Unit,Yes,88,16
+SS555,Burn Unit,Yes,43,19
+SS556,Emergency Room,Yes,63,41
+SS557,Ambulance Service,Yes,36,29
+SS558,Stroke Unit,Yes,116,34
+SS559,Emergency Room,Yes,72,47
+SS560,Emergency Room,Yes,96,53
+SS561,Emergency Room,Yes,73,59
+SS562,Trauma Center,Yes,49,45
+SS563,Trauma Center,Yes,24,40
+SS564,Psychiatric Emergency,Yes,15,53
+SS565,Cardiac Emergency Unit,Yes,91,56
+SS566,Burn Unit,Yes,113,13
+SS567,Burn Unit,Yes,26,47
+SS568,Stroke Unit,Yes,57,54
+SS569,Stroke Unit,Yes,69,19
+SS570,Ambulance Service,Yes,40,51
+SS571,Ambulance Service,Yes,82,18
+SS572,Cardiac Emergency Unit,Yes,86,31
+SS573,Trauma Center,Yes,112,13
+SS574,Ambulance Service,Yes,101,15
+SS575,Emergency Room,Yes,21,49
+SS576,Cardiac Emergency Unit,Yes,48,32
+SS577,Stroke Unit,Yes,32,31
+SS578,Emergency Room,Yes,30,41
+SS579,Psychiatric Emergency,Yes,37,46
+SS580,Burn Unit,Yes,16,38
+SS581,Cardiac Emergency Unit,Yes,111,49
+SS582,Pediatric ER,Yes,85,59
+SS583,Psychiatric Emergency,Yes,34,32
+SS584,Burn Unit,Yes,28,55
+SS585,Trauma Center,Yes,44,25
+SS586,Pediatric ER,Yes,30,59
+SS587,Burn Unit,Yes,58,58
+SS588,Ambulance Service,Yes,118,10
+SS589,Pediatric ER,Yes,17,46
+SS590,Trauma Center,Yes,54,37
+SS591,Cardiac Emergency Unit,Yes,67,48
+SS592,Burn Unit,Yes,90,40
+SS593,Cardiac Emergency Unit,Yes,113,25
+SS594,Trauma Center,Yes,94,37
+SS595,Ambulance Service,Yes,104,41
+SS596,Burn Unit,Yes,70,36
+SS597,Psychiatric Emergency,Yes,63,35
+SS598,Trauma Center,Yes,25,57
+SS599,Cardiac Emergency Unit,Yes,117,15
+SS600,Stroke Unit,Yes,35,34
+SS601,Emergency Room,Yes,39,25
+SS602,Trauma Center,Yes,81,18
+SS603,Psychiatric Emergency,Yes,47,20
+SS604,Psychiatric Emergency,Yes,114,22
+SS605,Psychiatric Emergency,Yes,31,35
+SS606,Trauma Center,Yes,17,42
+SS607,Pediatric ER,Yes,87,40
+SS608,Stroke Unit,Yes,61,20
+SS609,Emergency Room,Yes,38,27
+SS610,Pediatric ER,Yes,71,20
+SS611,Trauma Center,Yes,102,47
+SS612,Stroke Unit,Yes,32,57
+SS613,Psychiatric Emergency,Yes,15,13
+SS614,Trauma Center,Yes,45,55
+SS615,Stroke Unit,Yes,79,14
+SS616,Emergency Room,Yes,109,43
+SS617,Psychiatric Emergency,Yes,114,53
+SS618,Stroke Unit,Yes,54,45
+SS619,Cardiac Emergency Unit,Yes,47,48
+SS620,Stroke Unit,Yes,27,30
+SS621,Stroke Unit,Yes,78,53
+SS622,Trauma Center,Yes,90,22
+SS623,Psychiatric Emergency,Yes,62,58
+SS624,Stroke Unit,Yes,10,20
+SS625,Emergency Room,Yes,26,39
+SS626,Emergency Room,Yes,91,47
+SS627,Pediatric ER,Yes,28,34
+SS628,Ambulance Service,Yes,85,47
+SS629,Stroke Unit,Yes,90,59
+SS630,Psychiatric Emergency,Yes,117,12
+SS631,Psychiatric Emergency,Yes,94,14
+SS632,Burn Unit,Yes,75,37
+SS633,Stroke Unit,Yes,41,11
+SS634,Stroke Unit,Yes,35,16
+SS635,Stroke Unit,Yes,45,49
+SS636,Pediatric ER,Yes,85,58
+SS637,Ambulance Service,Yes,57,31
+SS638,Emergency Room,Yes,21,54
+SS639,Trauma Center,Yes,18,15
+SS640,Emergency Room,Yes,85,48
+SS641,Trauma Center,Yes,69,30
+SS642,Ambulance Service,Yes,43,44
+SS643,Psychiatric Emergency,Yes,42,12
+SS644,Pediatric ER,Yes,114,28
+SS645,Trauma Center,Yes,38,31
+SS646,Emergency Room,Yes,73,25
+SS647,Pediatric ER,Yes,49,31
+SS648,Psychiatric Emergency,Yes,95,50
+SS649,Burn Unit,Yes,63,22
+SS650,Pediatric ER,Yes,80,17
+SS651,Ambulance Service,Yes,76,34
+SS652,Cardiac Emergency Unit,Yes,115,38
+SS653,Pediatric ER,Yes,41,36
+SS654,Psychiatric Emergency,Yes,65,57
+SS655,Trauma Center,Yes,10,30
+SS656,Pediatric ER,Yes,83,47
+SS657,Emergency Room,Yes,67,13
+SS658,Ambulance Service,Yes,103,31
+SS659,Psychiatric Emergency,Yes,12,57
+SS660,Stroke Unit,Yes,101,22
+SS661,Pediatric ER,Yes,96,26
+SS662,Ambulance Service,Yes,83,17
+SS663,Stroke Unit,Yes,31,16
+SS664,Burn Unit,Yes,92,47
+SS665,Trauma Center,Yes,53,28
+SS666,Stroke Unit,Yes,64,45
+SS667,Emergency Room,Yes,21,59
+SS668,Emergency Room,Yes,24,26
+SS669,Stroke Unit,Yes,56,58
+SS670,Cardiac Emergency Unit,Yes,26,13
+SS671,Trauma Center,Yes,62,22
+SS672,Burn Unit,Yes,45,43
+SS673,Pediatric ER,Yes,104,39
+SS674,Pediatric ER,Yes,13,39
+SS675,Ambulance Service,Yes,30,44
+SS676,Cardiac Emergency Unit,Yes,51,20
+SS677,Emergency Room,Yes,54,38
+SS678,Burn Unit,Yes,70,11
+SS679,Pediatric ER,Yes,67,27
+SS680,Stroke Unit,Yes,44,21
+SS681,Pediatric ER,Yes,43,46
+SS682,Stroke Unit,Yes,94,30
+SS683,Stroke Unit,Yes,107,55
+SS684,Trauma Center,Yes,92,18
+SS685,Psychiatric Emergency,Yes,90,11
+SS686,Cardiac Emergency Unit,Yes,35,14
+SS687,Pediatric ER,Yes,103,35
+SS688,Cardiac Emergency Unit,Yes,62,29
+SS689,Cardiac Emergency Unit,Yes,100,15
+SS690,Emergency Room,Yes,100,17
+SS691,Burn Unit,Yes,50,60
+SS692,Psychiatric Emergency,Yes,20,23
+SS693,Psychiatric Emergency,Yes,111,50
+SS694,Psychiatric Emergency,Yes,52,56
+SS695,Ambulance Service,Yes,31,13
+SS696,Stroke Unit,Yes,62,57
+SS697,Burn Unit,Yes,33,29
+SS698,Trauma Center,Yes,56,53
+SS699,Ambulance Service,Yes,116,56
+SS700,Burn Unit,Yes,11,60
+SS701,Pediatric ER,Yes,29,57
+SS702,Pediatric ER,Yes,10,32
+SS703,Psychiatric Emergency,Yes,50,49
+SS704,Ambulance Service,Yes,33,10
+SS705,Trauma Center,Yes,62,39
+SS706,Stroke Unit,Yes,22,58
+SS707,Trauma Center,Yes,106,12
+SS708,Stroke Unit,Yes,39,16
+SS709,Psychiatric Emergency,Yes,27,13
+SS710,Emergency Room,Yes,87,26
+SS711,Cardiac Emergency Unit,Yes,90,32
+SS712,Psychiatric Emergency,Yes,94,22
+SS713,Ambulance Service,Yes,109,53
+SS714,Burn Unit,Yes,91,19
+SS715,Pediatric ER,Yes,17,39
+SS716,Cardiac Emergency Unit,Yes,16,24
+SS717,Ambulance Service,Yes,73,18
+SS718,Trauma Center,Yes,115,28
+SS719,Burn Unit,Yes,77,46
+SS720,Trauma Center,Yes,27,43
+SS721,Burn Unit,Yes,21,60
+SS722,Cardiac Emergency Unit,Yes,45,12
+SS723,Burn Unit,Yes,80,40
+SS724,Stroke Unit,Yes,74,42
+SS725,Ambulance Service,Yes,70,37
+SS726,Pediatric ER,Yes,104,32
+SS727,Burn Unit,Yes,87,38
+SS728,Cardiac Emergency Unit,Yes,103,40
+SS729,Emergency Room,Yes,73,15
+SS730,Trauma Center,Yes,118,36
+SS731,Psychiatric Emergency,Yes,79,54
+SS732,Pediatric ER,Yes,118,40
+SS733,Trauma Center,Yes,54,59
+SS734,Pediatric ER,Yes,80,15
+SS735,Stroke Unit,Yes,114,57
+SS736,Cardiac Emergency Unit,Yes,120,46
+SS737,Ambulance Service,Yes,109,36
+SS738,Emergency Room,Yes,89,30
+SS739,Ambulance Service,Yes,102,55
+SS740,Emergency Room,Yes,71,49
+SS741,Stroke Unit,Yes,97,34
+SS742,Stroke Unit,Yes,58,15
+SS743,Stroke Unit,Yes,35,56
+SS744,Emergency Room,Yes,45,29
+SS745,Emergency Room,Yes,27,17
+SS746,Emergency Room,Yes,76,14
+SS747,Trauma Center,Yes,41,19
+SS748,Emergency Room,Yes,23,59
+SS749,Ambulance Service,Yes,13,30
+SS750,Emergency Room,Yes,119,27
+SS751,Pediatric ER,Yes,21,51
+SS752,Psychiatric Emergency,Yes,105,35
+SS753,Psychiatric Emergency,Yes,39,44
+SS754,Emergency Room,Yes,110,55
+SS755,Pediatric ER,Yes,115,18
+SS756,Ambulance Service,Yes,23,21
+SS757,Pediatric ER,Yes,66,56
+SS758,Ambulance Service,Yes,84,46
+SS759,Trauma Center,Yes,40,26
+SS760,Ambulance Service,Yes,41,16
+SS761,Emergency Room,Yes,20,57
+SS762,Pediatric ER,Yes,34,17
+SS763,Cardiac Emergency Unit,Yes,80,60
+SS764,Burn Unit,Yes,26,40
+SS765,Cardiac Emergency Unit,Yes,25,17
+SS766,Trauma Center,Yes,74,13
+SS767,Psychiatric Emergency,Yes,115,39
+SS768,Cardiac Emergency Unit,Yes,99,55
+SS769,Trauma Center,Yes,75,26
+SS770,Stroke Unit,Yes,11,47
+SS771,Emergency Room,Yes,64,28
+SS772,Stroke Unit,Yes,25,52
+SS773,Cardiac Emergency Unit,Yes,109,30
+SS774,Burn Unit,Yes,77,33
+SS775,Emergency Room,Yes,49,20
+SS776,Stroke Unit,Yes,85,31
+SS777,Burn Unit,Yes,89,45
+SS778,Trauma Center,Yes,99,13
+SS779,Trauma Center,Yes,78,42
+SS780,Burn Unit,Yes,87,51
+SS781,Cardiac Emergency Unit,Yes,92,11
+SS782,Emergency Room,Yes,16,53
+SS783,Burn Unit,Yes,119,13
+SS784,Ambulance Service,Yes,36,52
+SS785,Emergency Room,Yes,83,40
+SS786,Trauma Center,Yes,71,36
+SS787,Ambulance Service,Yes,76,29
+SS788,Psychiatric Emergency,Yes,82,14
+SS789,Pediatric ER,Yes,80,35
+SS790,Cardiac Emergency Unit,Yes,90,21
+SS791,Stroke Unit,Yes,83,59
+SS792,Stroke Unit,Yes,28,59
+SS793,Ambulance Service,Yes,54,22
+SS794,Cardiac Emergency Unit,Yes,37,56
+SS795,Burn Unit,Yes,54,54
+SS796,Burn Unit,Yes,30,29
+SS797,Ambulance Service,Yes,29,28
+SS798,Ambulance Service,Yes,13,53
+SS799,Pediatric ER,Yes,32,17
+SS800,Ambulance Service,Yes,10,26
+SS801,Cardiac Emergency Unit,Yes,117,60
+SS802,Trauma Center,Yes,76,56
+SS803,Trauma Center,Yes,88,34
+SS804,Emergency Room,Yes,64,43
+SS805,Pediatric ER,Yes,85,25
+SS806,Ambulance Service,Yes,62,48
+SS807,Cardiac Emergency Unit,Yes,73,39
+SS808,Pediatric ER,Yes,58,45
+SS809,Emergency Room,Yes,75,50
+SS810,Burn Unit,Yes,96,50
+SS811,Cardiac Emergency Unit,Yes,79,44
+SS812,Emergency Room,Yes,118,27
+SS813,Trauma Center,Yes,55,42
+SS814,Trauma Center,Yes,100,26
+SS815,Pediatric ER,Yes,80,53
+SS816,Stroke Unit,Yes,19,30
+SS817,Emergency Room,Yes,61,10
+SS818,Burn Unit,Yes,51,32
+SS819,Stroke Unit,Yes,118,57
+SS820,Pediatric ER,Yes,47,38
+SS821,Stroke Unit,Yes,113,18
+SS822,Emergency Room,Yes,29,41
+SS823,Emergency Room,Yes,45,54
+SS824,Ambulance Service,Yes,24,54
+SS825,Ambulance Service,Yes,21,40
+SS826,Pediatric ER,Yes,20,10
+SS827,Emergency Room,Yes,106,37
+SS828,Emergency Room,Yes,56,50
+SS829,Psychiatric Emergency,Yes,47,33
+SS830,Cardiac Emergency Unit,Yes,43,25
+SS831,Ambulance Service,Yes,19,50
+SS832,Psychiatric Emergency,Yes,59,45
+SS833,Burn Unit,Yes,20,30
+SS834,Cardiac Emergency Unit,Yes,43,35
+SS835,Stroke Unit,Yes,53,34
+SS836,Trauma Center,Yes,73,31
+SS837,Burn Unit,Yes,31,29
+SS838,Trauma Center,Yes,19,55
+SS839,Psychiatric Emergency,Yes,42,11
+SS840,Ambulance Service,Yes,98,28
+SS841,Pediatric ER,Yes,23,12
+SS842,Stroke Unit,Yes,61,52
+SS843,Burn Unit,Yes,81,25
+SS844,Trauma Center,Yes,33,54
+SS845,Pediatric ER,Yes,88,20
+SS846,Burn Unit,Yes,34,59
+SS847,Stroke Unit,Yes,93,49
+SS848,Psychiatric Emergency,Yes,67,54
+SS849,Psychiatric Emergency,Yes,16,23
+SS850,Stroke Unit,Yes,119,18
+SS851,Trauma Center,Yes,60,14
+SS852,Psychiatric Emergency,Yes,84,22
+SS853,Psychiatric Emergency,Yes,120,54
+SS854,Cardiac Emergency Unit,Yes,117,27
+SS855,Cardiac Emergency Unit,Yes,34,38
+SS856,Trauma Center,Yes,105,12
+SS857,Stroke Unit,Yes,54,19
+SS858,Trauma Center,Yes,106,11
+SS859,Ambulance Service,Yes,29,45
+SS860,Emergency Room,Yes,120,22
+SS861,Burn Unit,Yes,82,54
+SS862,Burn Unit,Yes,21,26
+SS863,Pediatric ER,Yes,85,26
+SS864,Pediatric ER,Yes,32,48
+SS865,Psychiatric Emergency,Yes,88,23
+SS866,Burn Unit,Yes,114,41
+SS867,Ambulance Service,Yes,53,13
+SS868,Psychiatric Emergency,Yes,17,36
+SS869,Pediatric ER,Yes,96,51
+SS870,Stroke Unit,Yes,50,37
+SS871,Trauma Center,Yes,88,48
+SS872,Trauma Center,Yes,22,49
+SS873,Burn Unit,Yes,85,28
+SS874,Ambulance Service,Yes,31,52
+SS875,Psychiatric Emergency,Yes,28,29
+SS876,Pediatric ER,Yes,31,50
+SS877,Pediatric ER,Yes,42,60
+SS878,Burn Unit,Yes,67,53
+SS879,Pediatric ER,Yes,13,27
+SS880,Burn Unit,Yes,103,14
+SS881,Emergency Room,Yes,75,16
+SS882,Cardiac Emergency Unit,Yes,42,30
+SS883,Ambulance Service,Yes,70,55
+SS884,Stroke Unit,Yes,18,10
+SS885,Trauma Center,Yes,109,24
+SS886,Pediatric ER,Yes,66,59
+SS887,Cardiac Emergency Unit,Yes,71,42
+SS888,Psychiatric Emergency,Yes,57,16
+SS889,Cardiac Emergency Unit,Yes,82,59
+SS890,Emergency Room,Yes,56,35
+SS891,Trauma Center,Yes,55,45
+SS892,Trauma Center,Yes,111,14
+SS893,Psychiatric Emergency,Yes,59,38
+SS894,Cardiac Emergency Unit,Yes,82,30
+SS895,Emergency Room,Yes,77,21
+SS896,Psychiatric Emergency,Yes,73,58
+SS897,Ambulance Service,Yes,119,43
+SS898,Ambulance Service,Yes,86,41
+SS899,Stroke Unit,Yes,108,40
+SS900,Pediatric ER,Yes,54,56
+SS901,Emergency Room,Yes,23,50
+SS902,Cardiac Emergency Unit,Yes,98,31
+SS903,Psychiatric Emergency,Yes,106,49
+SS904,Ambulance Service,Yes,56,54
+SS905,Stroke Unit,Yes,28,14
+SS906,Trauma Center,Yes,110,45
+SS907,Ambulance Service,Yes,85,29
+SS908,Emergency Room,Yes,107,23
+SS909,Emergency Room,Yes,101,51
+SS910,Stroke Unit,Yes,12,20
+SS911,Psychiatric Emergency,Yes,40,24
+SS912,Trauma Center,Yes,71,19
+SS913,Pediatric ER,Yes,44,40
+SS914,Burn Unit,Yes,102,15
+SS915,Emergency Room,Yes,63,39
+SS916,Trauma Center,Yes,102,44
+SS917,Ambulance Service,Yes,24,41
+SS918,Trauma Center,Yes,120,26
+SS919,Burn Unit,Yes,24,42
+SS920,Trauma Center,Yes,115,26
+SS921,Trauma Center,Yes,108,24
+SS922,Pediatric ER,Yes,82,33
+SS923,Burn Unit,Yes,77,24
+SS924,Emergency Room,Yes,53,37
+SS925,Stroke Unit,Yes,113,38
+SS926,Pediatric ER,Yes,33,39
+SS927,Stroke Unit,Yes,17,49
+SS928,Trauma Center,Yes,108,48
+SS929,Ambulance Service,Yes,107,42
+SS930,Ambulance Service,Yes,58,52
+SS931,Psychiatric Emergency,Yes,20,19
+SS932,Stroke Unit,Yes,43,51
+SS933,Psychiatric Emergency,Yes,113,40
+SS934,Ambulance Service,Yes,43,21
+SS935,Emergency Room,Yes,62,17
+SS936,Ambulance Service,Yes,117,18
+SS937,Ambulance Service,Yes,92,14
+SS938,Stroke Unit,Yes,96,57
+SS939,Trauma Center,Yes,118,46
+SS940,Burn Unit,Yes,83,52
+SS941,Ambulance Service,Yes,108,49
+SS942,Psychiatric Emergency,Yes,17,37
+SS943,Burn Unit,Yes,52,54
+SS944,Pediatric ER,Yes,119,20
+SS945,Emergency Room,Yes,23,43
+SS946,Stroke Unit,Yes,116,48
+SS947,Ambulance Service,Yes,73,46
+SS948,Emergency Room,Yes,93,55
+SS949,Trauma Center,Yes,37,37
+SS950,Cardiac Emergency Unit,Yes,68,47
+SS951,Ambulance Service,Yes,83,11
+SS952,Ambulance Service,Yes,77,30
+SS953,Pediatric ER,Yes,118,38
+SS954,Pediatric ER,Yes,25,29
+SS955,Psychiatric Emergency,Yes,43,56
+SS956,Ambulance Service,Yes,96,59
+SS957,Ambulance Service,Yes,116,38
+SS958,Stroke Unit,Yes,97,37
+SS959,Psychiatric Emergency,Yes,25,15
+SS960,Burn Unit,Yes,70,25
+SS961,Emergency Room,Yes,40,35
+SS962,Burn Unit,Yes,71,48
+SS963,Emergency Room,Yes,44,49
+SS964,Burn Unit,Yes,26,32
+SS965,Trauma Center,Yes,112,45
+SS966,Psychiatric Emergency,Yes,92,35
+SS967,Cardiac Emergency Unit,Yes,65,41
+SS968,Emergency Room,Yes,14,19
+SS969,Stroke Unit,Yes,20,40
+SS970,Pediatric ER,Yes,77,40
+SS971,Cardiac Emergency Unit,Yes,29,54
+SS972,Stroke Unit,Yes,38,58
+SS973,Trauma Center,Yes,49,26
+SS974,Trauma Center,Yes,97,53
+SS975,Pediatric ER,Yes,93,12
+SS976,Trauma Center,Yes,89,23
+SS977,Stroke Unit,Yes,33,38
+SS978,Emergency Room,Yes,94,31
+SS979,Burn Unit,Yes,94,45
+SS980,Stroke Unit,Yes,56,22
+SS981,Ambulance Service,Yes,99,14
+SS982,Emergency Room,Yes,86,54
+SS983,Cardiac Emergency Unit,Yes,25,41
+SS984,Pediatric ER,Yes,28,20
+SS985,Ambulance Service,Yes,105,60
+SS986,Psychiatric Emergency,Yes,110,16
+SS987,Cardiac Emergency Unit,Yes,47,11
+SS988,Pediatric ER,Yes,26,22
+SS989,Cardiac Emergency Unit,Yes,73,14
+SS990,Emergency Room,Yes,98,16
+SS991,Burn Unit,Yes,106,51
+SS992,Burn Unit,Yes,15,41
+SS993,Cardiac Emergency Unit,Yes,17,33
+SS994,Emergency Room,Yes,90,58
+SS995,Trauma Center,Yes,32,25
+SS996,Emergency Room,Yes,79,27
+SS997,Psychiatric Emergency,Yes,11,38
+SS998,Burn Unit,Yes,99,22
+SS999,Psychiatric Emergency,Yes,82,20
+SS1000,Stroke Unit,Yes,46,16
+SS1001,Ambulance Service,Yes,68,30
+SS1002,Pediatric ER,Yes,19,31
+SS1003,Emergency Room,Yes,56,40
+SS1004,Psychiatric Emergency,Yes,38,46
+SS1005,Burn Unit,Yes,26,31
+SS1006,Trauma Center,Yes,82,58
+SS1007,Stroke Unit,Yes,118,37
+SS1008,Stroke Unit,Yes,25,59
+SS1009,Burn Unit,Yes,89,55
+SS1010,Pediatric ER,Yes,115,32
+SS1011,Pediatric ER,Yes,75,28
+SS1012,Psychiatric Emergency,Yes,67,56
+SS1013,Burn Unit,Yes,13,41
+SS1014,Stroke Unit,Yes,89,41
+SS1015,Trauma Center,Yes,16,27
+SS1016,Cardiac Emergency Unit,Yes,27,56
+SS1017,Ambulance Service,Yes,53,39
+SS1018,Stroke Unit,Yes,90,55
+SS1019,Burn Unit,Yes,101,30
+SS1020,Pediatric ER,Yes,112,57
+SS1021,Ambulance Service,Yes,98,38
+SS1022,Cardiac Emergency Unit,Yes,95,19
+SS1023,Emergency Room,Yes,62,12
+SS1024,Psychiatric Emergency,Yes,79,47
+SS1025,Burn Unit,Yes,94,36
+SS1026,Ambulance Service,Yes,85,15
+SS1027,Cardiac Emergency Unit,Yes,60,56
+SS1028,Cardiac Emergency Unit,Yes,42,44
+SS1029,Cardiac Emergency Unit,Yes,68,13
+SS1030,Cardiac Emergency Unit,Yes,66,34
+SS1031,Cardiac Emergency Unit,Yes,24,25
+SS1032,Psychiatric Emergency,Yes,99,47
+SS1033,Stroke Unit,Yes,92,38
+SS1034,Pediatric ER,Yes,97,49
+SS1035,Pediatric ER,Yes,99,42
+SS1036,Stroke Unit,Yes,76,49
+SS1037,Ambulance Service,Yes,21,50
+SS1038,Trauma Center,Yes,119,25
+SS1039,Burn Unit,Yes,41,12
+SS1040,Emergency Room,Yes,50,54
+SS1041,Psychiatric Emergency,Yes,32,32
+SS1042,Burn Unit,Yes,67,32
+SS1043,Psychiatric Emergency,Yes,12,43
+SS1044,Cardiac Emergency Unit,Yes,69,40
+SS1045,Trauma Center,Yes,18,12
+SS1046,Cardiac Emergency Unit,Yes,60,33
+SS1047,Stroke Unit,Yes,15,33
+SS1048,Pediatric ER,Yes,47,17
+SS1049,Stroke Unit,Yes,98,37
+SS1050,Emergency Room,Yes,97,55
+SS1051,Psychiatric Emergency,Yes,20,50
+SS1052,Stroke Unit,Yes,83,31
+SS1053,Stroke Unit,Yes,100,10
+SS1054,Pediatric ER,Yes,53,46
+SS1055,Cardiac Emergency Unit,Yes,89,22
+SS1056,Emergency Room,Yes,15,20
+SS1057,Pediatric ER,Yes,93,25
+SS1058,Burn Unit,Yes,54,18
+SS1059,Burn Unit,Yes,37,31
+SS1060,Burn Unit,Yes,67,24
+SS1061,Trauma Center,Yes,87,21
+SS1062,Burn Unit,Yes,113,52
+SS1063,Pediatric ER,Yes,72,25
+SS1064,Cardiac Emergency Unit,Yes,84,32
+SS1065,Cardiac Emergency Unit,Yes,23,36
+SS1066,Ambulance Service,Yes,69,12
+SS1067,Emergency Room,Yes,34,33
+SS1068,Burn Unit,Yes,52,27
+SS1069,Trauma Center,Yes,69,16
+SS1070,Stroke Unit,Yes,61,25
+SS1071,Emergency Room,Yes,91,21
+SS1072,Stroke Unit,Yes,106,57
+SS1073,Pediatric ER,Yes,77,38
+SS1074,Psychiatric Emergency,Yes,28,51
+SS1075,Ambulance Service,Yes,63,29
+SS1076,Trauma Center,Yes,57,36
+SS1077,Burn Unit,Yes,116,30
+SS1078,Emergency Room,Yes,72,57
+SS1079,Ambulance Service,Yes,94,27
+SS1080,Emergency Room,Yes,45,10
+SS1081,Burn Unit,Yes,106,40
+SS1082,Ambulance Service,Yes,91,14
+SS1083,Cardiac Emergency Unit,Yes,58,41
+SS1084,Cardiac Emergency Unit,Yes,106,58
+SS1085,Ambulance Service,Yes,101,60
+SS1086,Emergency Room,Yes,13,58
+SS1087,Stroke Unit,Yes,50,26
+SS1088,Emergency Room,Yes,101,19
+SS1089,Burn Unit,Yes,37,32
+SS1090,Cardiac Emergency Unit,Yes,101,45
+SS1091,Emergency Room,Yes,61,58
+SS1092,Burn Unit,Yes,73,10
+SS1093,Psychiatric Emergency,Yes,11,45
+SS1094,Pediatric ER,Yes,69,35
+SS1095,Trauma Center,Yes,54,33
+SS1096,Psychiatric Emergency,Yes,37,33
+SS1097,Stroke Unit,Yes,62,19
+SS1098,Pediatric ER,Yes,107,52
+SS1099,Cardiac Emergency Unit,Yes,87,60
+SS1100,Emergency Room,Yes,67,23
+SS1101,Emergency Room,Yes,12,48
+SS1102,Emergency Room,Yes,110,60
+SS1103,Emergency Room,Yes,115,33
+SS1104,Stroke Unit,Yes,118,31
+SS1105,Trauma Center,Yes,43,11
+SS1106,Burn Unit,Yes,95,15
+SS1107,Stroke Unit,Yes,89,44
+SS1108,Pediatric ER,Yes,94,52
+SS1109,Cardiac Emergency Unit,Yes,16,12
+SS1110,Trauma Center,Yes,108,43
+SS1111,Psychiatric Emergency,Yes,58,21
+SS1112,Psychiatric Emergency,Yes,117,29
+SS1113,Emergency Room,Yes,28,37
+SS1114,Burn Unit,Yes,115,49
+SS1115,Psychiatric Emergency,Yes,36,40
+SS1116,Trauma Center,Yes,120,52
+SS1117,Ambulance Service,Yes,108,19
+SS1118,Cardiac Emergency Unit,Yes,95,35
+SS1119,Psychiatric Emergency,Yes,16,57
+SS1120,Ambulance Service,Yes,85,32
+SS1121,Emergency Room,Yes,25,37
+SS1122,Psychiatric Emergency,Yes,27,49
+SS1123,Pediatric ER,Yes,17,18
+SS1124,Burn Unit,Yes,71,39
+SS1125,Trauma Center,Yes,56,21
+SS1126,Psychiatric Emergency,Yes,38,56
+SS1127,Cardiac Emergency Unit,Yes,116,54
+SS1128,Cardiac Emergency Unit,Yes,88,39
+SS1129,Cardiac Emergency Unit,Yes,21,45
+SS1130,Cardiac Emergency Unit,Yes,73,27
+SS1131,Trauma Center,Yes,27,25
+SS1132,Stroke Unit,Yes,81,11
+SS1133,Psychiatric Emergency,Yes,30,46
+SS1134,Cardiac Emergency Unit,Yes,25,38
+SS1135,Ambulance Service,Yes,36,18
+SS1136,Ambulance Service,Yes,83,60
+SS1137,Psychiatric Emergency,Yes,53,44
+SS1138,Burn Unit,Yes,96,21
+SS1139,Cardiac Emergency Unit,Yes,39,58
+SS1140,Emergency Room,Yes,35,31
+SS1141,Cardiac Emergency Unit,Yes,72,37
+SS1142,Burn Unit,Yes,55,49
+SS1143,Cardiac Emergency Unit,Yes,119,52
+SS1144,Trauma Center,Yes,103,43
+SS1145,Pediatric ER,Yes,16,32
+SS1146,Ambulance Service,Yes,29,47
+SS1147,Emergency Room,Yes,75,58
+SS1148,Pediatric ER,Yes,70,14
+SS1149,Cardiac Emergency Unit,Yes,31,20
+SS1150,Psychiatric Emergency,Yes,35,15
+SS1151,Emergency Room,Yes,92,50
+SS1152,Emergency Room,Yes,41,18
+SS1153,Cardiac Emergency Unit,Yes,28,27
+SS1154,Stroke Unit,Yes,47,37
+SS1155,Stroke Unit,Yes,17,50
+SS1156,Psychiatric Emergency,Yes,110,54
+SS1157,Pediatric ER,Yes,106,14
+SS1158,Stroke Unit,Yes,73,19
+SS1159,Cardiac Emergency Unit,Yes,111,18
+SS1160,Emergency Room,Yes,71,32
+SS1161,Psychiatric Emergency,Yes,93,35
+SS1162,Emergency Room,Yes,69,45
+SS1163,Ambulance Service,Yes,72,30
+SS1164,Ambulance Service,Yes,65,38
+SS1165,Ambulance Service,Yes,103,24
+SS1166,Trauma Center,Yes,119,54
+SS1167,Ambulance Service,Yes,62,30
+SS1168,Pediatric ER,Yes,78,19
+SS1169,Emergency Room,Yes,46,59
+SS1170,Stroke Unit,Yes,92,58
+SS1171,Ambulance Service,Yes,78,29
+SS1172,Burn Unit,Yes,37,27
+SS1173,Ambulance Service,Yes,41,53
+SS1174,Burn Unit,Yes,104,31
+SS1175,Cardiac Emergency Unit,Yes,100,25
+SS1176,Psychiatric Emergency,Yes,74,45
+SS1177,Emergency Room,Yes,39,42
+SS1178,Cardiac Emergency Unit,Yes,109,22
+SS1179,Cardiac Emergency Unit,Yes,115,58
+SS1180,Trauma Center,Yes,70,38
+SS1181,Burn Unit,Yes,12,44
+SS1182,Trauma Center,Yes,21,25
+SS1183,Ambulance Service,Yes,63,53
+SS1184,Cardiac Emergency Unit,Yes,62,34
+SS1185,Burn Unit,Yes,111,58
+SS1186,Stroke Unit,Yes,100,59
+SS1187,Pediatric ER,Yes,42,16
+SS1188,Emergency Room,Yes,90,31
+SS1189,Pediatric ER,Yes,25,40
+SS1190,Emergency Room,Yes,77,10
+SS1191,Psychiatric Emergency,Yes,39,26
+SS1192,Burn Unit,Yes,95,32
+SS1193,Emergency Room,Yes,80,19
+SS1194,Trauma Center,Yes,116,10
+SS1195,Emergency Room,Yes,21,17
+SS1196,Cardiac Emergency Unit,Yes,51,57
+SS1197,Trauma Center,Yes,65,33
+SS1198,Burn Unit,Yes,11,42
+SS1199,Pediatric ER,Yes,97,51
+SS1200,Stroke Unit,Yes,77,55
+SS1201,Cardiac Emergency Unit,Yes,62,35
+SS1202,Psychiatric Emergency,Yes,92,17
+SS1203,Burn Unit,Yes,42,23
+SS1204,Ambulance Service,Yes,120,57
+SS1205,Burn Unit,Yes,88,22
+SS1206,Pediatric ER,Yes,66,27
+SS1207,Stroke Unit,Yes,49,42
+SS1208,Emergency Room,Yes,100,16
+SS1209,Cardiac Emergency Unit,Yes,108,14
+SS1210,Pediatric ER,Yes,18,42
+SS1211,Trauma Center,Yes,61,22
+SS1212,Burn Unit,Yes,24,46
+SS1213,Cardiac Emergency Unit,Yes,110,26
+SS1214,Trauma Center,Yes,14,14
+SS1215,Stroke Unit,Yes,50,44
+SS1216,Ambulance Service,Yes,101,21
+SS1217,Pediatric ER,Yes,30,43
+SS1218,Trauma Center,Yes,119,55
+SS1219,Ambulance Service,Yes,23,10
+SS1220,Trauma Center,Yes,15,22
+SS1221,Emergency Room,Yes,74,41
+SS1222,Burn Unit,Yes,83,23
+SS1223,Ambulance Service,Yes,37,54
+SS1224,Cardiac Emergency Unit,Yes,61,48
+SS1225,Cardiac Emergency Unit,Yes,39,12
+SS1226,Pediatric ER,Yes,69,11
+SS1227,Emergency Room,Yes,116,40
+SS1228,Stroke Unit,Yes,73,21
+SS1229,Trauma Center,Yes,103,58
+SS1230,Pediatric ER,Yes,23,38
+SS1231,Stroke Unit,Yes,29,34
+SS1232,Cardiac Emergency Unit,Yes,80,16
+SS1233,Trauma Center,Yes,69,20
+SS1234,Pediatric ER,Yes,61,17
+SS1235,Stroke Unit,Yes,10,10
+SS1236,Emergency Room,Yes,21,41
+SS1237,Trauma Center,Yes,108,32
+SS1238,Ambulance Service,Yes,81,49
+SS1239,Emergency Room,Yes,19,15
+SS1240,Cardiac Emergency Unit,Yes,77,29
+SS1241,Emergency Room,Yes,15,60
+SS1242,Cardiac Emergency Unit,Yes,24,53
+SS1243,Ambulance Service,Yes,12,36
+SS1244,Ambulance Service,Yes,77,37
+SS1245,Pediatric ER,Yes,115,16
+SS1246,Cardiac Emergency Unit,Yes,55,36
+SS1247,Trauma Center,Yes,22,36
+SS1248,Burn Unit,Yes,111,43
+SS1249,Burn Unit,Yes,18,56
+SS1250,Cardiac Emergency Unit,Yes,77,60
+SS1251,Ambulance Service,Yes,86,21
+SS1252,Ambulance Service,Yes,51,31
+SS1253,Trauma Center,Yes,112,20
+SS1254,Emergency Room,Yes,22,26
+SS1255,Psychiatric Emergency,Yes,55,46
+SS1256,Psychiatric Emergency,Yes,55,39
+SS1257,Trauma Center,Yes,85,14
+SS1258,Burn Unit,Yes,13,23
+SS1259,Cardiac Emergency Unit,Yes,32,30
+SS1260,Pediatric ER,Yes,82,13
+SS1261,Psychiatric Emergency,Yes,58,59
+SS1262,Cardiac Emergency Unit,Yes,69,28
+SS1263,Stroke Unit,Yes,40,48
+SS1264,Emergency Room,Yes,60,46
+SS1265,Psychiatric Emergency,Yes,26,28
+SS1266,Stroke Unit,Yes,95,53
+SS1267,Burn Unit,Yes,93,11
+SS1268,Pediatric ER,Yes,110,40
+SS1269,Pediatric ER,Yes,46,44
+SS1270,Psychiatric Emergency,Yes,98,43
+SS1271,Stroke Unit,Yes,11,19
+SS1272,Psychiatric Emergency,Yes,29,35
+SS1273,Emergency Room,Yes,101,31
+SS1274,Psychiatric Emergency,Yes,60,15
+SS1275,Emergency Room,Yes,108,33
+SS1276,Stroke Unit,Yes,30,60
+SS1277,Ambulance Service,Yes,70,24
+SS1278,Burn Unit,Yes,23,18
+SS1279,Burn Unit,Yes,102,48
+SS1280,Burn Unit,Yes,43,18
+SS1281,Psychiatric Emergency,Yes,12,32
+SS1282,Ambulance Service,Yes,11,24
+SS1283,Psychiatric Emergency,Yes,88,41
+SS1284,Trauma Center,Yes,27,46
+SS1285,Pediatric ER,Yes,77,22
+SS1286,Stroke Unit,Yes,77,20
+SS1287,Ambulance Service,Yes,81,19
+SS1288,Psychiatric Emergency,Yes,41,39
+SS1289,Psychiatric Emergency,Yes,19,36
+SS1290,Stroke Unit,Yes,67,14
+SS1291,Burn Unit,Yes,66,42
+SS1292,Cardiac Emergency Unit,Yes,77,53
+SS1293,Ambulance Service,Yes,76,20
+SS1294,Emergency Room,Yes,45,33
+SS1295,Pediatric ER,Yes,99,23
+SS1296,Ambulance Service,Yes,84,27
+SS1297,Pediatric ER,Yes,53,23
+SS1298,Emergency Room,Yes,68,37
+SS1299,Trauma Center,Yes,21,19
+SS1300,Stroke Unit,Yes,16,60
+SS1301,Ambulance Service,Yes,94,34
+SS1302,Psychiatric Emergency,Yes,11,52
+SS1303,Pediatric ER,Yes,12,19
+SS1304,Trauma Center,Yes,67,58
+SS1305,Ambulance Service,Yes,42,26
+SS1306,Stroke Unit,Yes,49,57
+SS1307,Pediatric ER,Yes,34,16
+SS1308,Cardiac Emergency Unit,Yes,45,53
+SS1309,Pediatric ER,Yes,106,59
+SS1310,Trauma Center,Yes,76,47
+SS1311,Emergency Room,Yes,89,26
+SS1312,Emergency Room,Yes,24,27
+SS1313,Cardiac Emergency Unit,Yes,63,40
+SS1314,Emergency Room,Yes,98,13
+SS1315,Emergency Room,Yes,96,54
+SS1316,Trauma Center,No,12,51
+SS1317,Emergency Room,No,56,17
+SS1318,Ambulance Service,No,35,41
+SS1319,Trauma Center,No,93,53
+SS1320,Ambulance Service,No,105,30
+SS1321,Emergency Room,No,48,47
+SS1322,Ambulance Service,No,111,46
+SS1323,Emergency Room,No,88,53
+SS1324,Psychiatric Emergency,No,49,43
+SS1325,Stroke Unit,No,96,46
+SS1326,Psychiatric Emergency,No,91,59
+SS1327,Psychiatric Emergency,No,15,28
+SS1328,Stroke Unit,No,62,55
+SS1329,Cardiac Emergency Unit,No,26,56
+SS1330,Pediatric ER,No,10,60
+SS1331,Pediatric ER,No,94,35
+SS1332,Emergency Room,No,37,49
+SS1333,Pediatric ER,No,107,28
+SS1334,Ambulance Service,No,78,20
+SS1335,Emergency Room,No,115,57
+SS1336,Psychiatric Emergency,No,69,31
+SS1337,Burn Unit,No,83,24
+SS1338,Cardiac Emergency Unit,No,20,27
+SS1339,Trauma Center,No,99,31
+SS1340,Trauma Center,No,78,11
+SS1341,Psychiatric Emergency,No,74,35
+SS1342,Trauma Center,No,25,39
+SS1343,Emergency Room,No,49,14
