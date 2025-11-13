@@ -349,7 +349,7 @@ MedSmile_Healthcare_Satisfaction_Monitoring/
 ├── MedSmile_Queries.sql
 ├── POWERBI_DASHBOARD.png
 ├── STAR_SCHEMA_DIAGRAM.png
-├── MedSmileHealthcareSatisfactionMonitoringSystem_OnPremise.pdf
+├── MedSmileHealthcareSatisfactionMonitoringSystem_OnPremise_v1.pdf
 └── README.md
 ```
 ---
