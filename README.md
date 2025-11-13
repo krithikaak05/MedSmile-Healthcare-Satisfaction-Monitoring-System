@@ -205,6 +205,9 @@ The data warehouse supports standard OLAP operations:
 
 ## 📈 Power BI Analytics
 
+<img width="767" height="472" alt="POWERBI_DASHBOARD" src="https://github.com/user-attachments/assets/7b55cb5a-96da-42f5-bb76-a2ac2dbca26a" />
+
+
 ### Dashboard Overview
 
 The Power BI dashboard provides analytics through a direct connection to the PostgreSQL data warehouse, supporting interactive exploration and real-time insights.
